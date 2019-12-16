@@ -1,10 +1,10 @@
-# Elixir bestlib
+# Elixir Bestlib
 
 The "best" libraries for Elixir, by category.
 
 ## About
 
-The BEAM ecosystem is vast and hard to navigate for newbies. For any task you must evaluate options between:
+The BEAM ecosystem is vast and hard to navigate. For any task you must evaluate options for:
 
 - Elixir stdlib
 - Erlang OTP
@@ -15,87 +15,27 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 
 > The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer. –author unknown
 
-## Categories
+## Bestlib
 
-- [Actors](#actors)
-- [Algorithms and Data structures](#algorithms-and-data-structures)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Audio and Sounds](#audio-and-sounds)
-- [Authentication](#authentication)
-- [Authorization](#authorization)
-- [Behaviours and Interfaces](#behaviours-and-interfaces)
-- [Benchmarking](#benchmarking)
-- [Bittorrent](#bittorrent)
-- [BSON](#bson)
-- [Build Tools](#build-tools)
-- [Caching](#caching)
-- [Chatting](#chatting)
-- [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
-- [Code Analysis](#code-analysis)
-- [Command Line Applications](#command-line-applications)
-- [Configuration](#configuration)
-- [Cryptography](#cryptography)
-- [CSV](#csv)
-- [Date and Time](#date-and-time)
-- [Debugging](#debugging)
-- [Deployment](#deployment)
-- [Documentation](#documentation)
-- [Domain-specific language](#domain-specific-language)
-- [ECMAScript](#ecmascript)
-- [Email](#email)
-- [Embedded Systems](#embedded-systems)
-- [Encoding and Compression](#encoding-and-compression)
-- [Errors and Exception Handling](#errors-and-exception-handling)
-- [Eventhandling](#eventhandling)
-- [Examples and funny stuff](#examples-and-funny-stuff)
-- [Feature Flags and Toggles](#feature-flags-and-toggles)
-- [Feeds](#feeds)
-- [Files and Directories](#files-and-directories)
-- [Formulars](#formulars)
-- [Framework Components](#framework-components)
-- [Frameworks](#frameworks)
-- [Games](#games)
-- [Geolocation](#geolocation)
-- [GUI](#gui)
-- [Hardware](#hardware)
-- [HTML](#html)
-- [HTTP](#http)
-- [Images](#images)
-- [Instrumenting / Monitoring](#instrumenting--monitoring)
-- [JSON](#json)
-- [Languages](#languages)
-- [Lexical analysis](#lexical-analysis)
-- [Logging](#logging)
-- [Macros](#macros)
-- [Markdown](#markdown)
-- [Miscellaneous](#miscellaneous)
-- [Native Implemented Functions](#native-implemented-functions)
-- [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-- [Networking](#networking)
-- [Office](#office)
-- [ORM and Datamapping](#orm-and-datamapping)
-- [OTP](#otp)
-- [Package Management](#package-management)
-- [PDF](#pdf)
-- [Protocols](#protocols)
-- [Queue](#queue)
-- [Release Management](#release-management)
-- [REST and API](#rest-and-api)
-- [Search](#search)
-- [Security](#security)
-- [SMS](#sms)
-- [Static Page Generation](#static-page-generation)
-- [Statistics](#statistics)
-- [Templating](#templating)
-- [Testing](#testing)
-- [Text and Numbers](#text-and-numbers)
-- [Third Party APIs](#third-party-apis)
-- [Translations and Internationalizations](#translations-and-internationalizations)
-- [Utilities](#utilities)
-- [Validations](#validations)
-- [Version Control](#version-control)
-- [Video](#video)
-- [XML](#xml)
-- [YAML](#yaml)
+- Bidirectional maps - [BiMap](https://hex.pm/packages/bimap)
+- Bitmaps - [Bitmap](https://hex.pm/packages/bitmap)
+- Bloom filter - [Bloomex](https://hex.pm/packages/bloomex)
+- Constraint solver - [Aruspex](https://hex.pm/packages/aruspex)
+- Flow-based programming - [Flowex](https://hex.pm/packages/flowex)
+- GenServer helper - [ExActor](https://hex.pm/packages/exactor)
+- Process Backpressure and flow control - [Workex](https://hex.pm/packages/workex)
+- Process pooling - [pooler](https://hex.pm/packages/pooler)
+- Sojourn-time based active queue management - sbroker
+- Worker pool factory - [Poolboy](https://hex.pm/packages/poolboy)
 
-## Actors
+## Format
+
+- A flat list (no taxonomy) enables quick reference.
+- Each entry is just a category name with a link to the best library for dealing with it.
+- Link to the Hex package when possible, otherwise to the source code page.
+- Can add a runner-up as [[2]](https://link-to-runner-up.com)
+
+## Contributing
+
+- If you think there is a better library for one of the entries, simply create a PR and move the current choice to runner-up. If there was already a runner-up, it falls off the list.
+- If you think a category should be added, renamed, or merged with another category, simply submit a PR with the changes.
