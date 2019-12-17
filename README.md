@@ -728,181 +728,99 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [YAML config file reader](https://github.com/d0rc/sweetconfig)
 - [YAML parser](https://github.com/processone/fast_yaml) [[2]](https://github.com/yakaz/yamerl)
 - [YouTrack issue tracker client](https://github.com/unifysell/youtrack_logger_backend)
-
-## OTP
-
-_Libraries for working with OTP related things._
-
-- [Library for selective receive OTP processes](https://github.com/fishcakez/core)
-- [Execute and control OS processes from Erlang/OTP](https://github.com/saleyn/erlexec)
-- [Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application](https://github.com/danielberkompas/immortal)
-- [Helpers for accessing OTP application configuration](https://github.com/reset/libex-config)
-
-## Package Management
-
-_Libraries and tools for package and dependency management._
-
+- [OTP processes filtering](https://github.com/fishcakez/core)
+- [OS processes](https://github.com/saleyn/erlexec)
+- [Fault-tolerance helpers](https://github.com/danielberkompas/immortal)
+- [OTP application configuration](https://github.com/reset/libex-config)
 - [A package manager for the Erlang ecosystem](https://hex.pm/)
 - [Hex.pm plugin for rebar3](https://github.com/hexpm/rebar3_hex)
+- [PDF generation](https://github.com/SenecaSystems/gutenex)
+- [PDF to HTML conversion](https://github.com/ricn/pdf2htmlex)
+- [HTML to PDF conversion](https://github.com/gutschilla/elixir-pdf-generator)
+- [RADIUS Protocol](https://github.com/bearice/elixir-radius)
+- [Health Level 7 (HL7) health data protocol](https://github.com/jcomellas/ex_hl7)
+- [Ruby Marshal format](https://github.com/gaynetdinov/ex_marshal)
+- [Protocol Buffers](https://github.com/bitwalker/exprotobuf) [[2]](https://github.com/ahamez/protox)
+- [gRPC](https://github.com/tony612/grpc-elixir)
+- [MessagePack](https://github.com/mururu/msgpack-elixir) [[2]](https://github.com/lexmag/msgpax)
+- [Apache Thrift bindings](https://github.com/pinterest/riffed)
+- [SIP protocol middleware](https://github.com/balena/elixir-sippet)
+- [SMPP 3.4 protocol](https://github.com/savonarola/smppex)
+- [Data streams](https://github.com/awetzel/adap)
+- [RabbitMQ client](https://github.com/pma/amqp)
+- [Message queues framework (SQS/AMQP)](https://github.com/conduitframework/conduit)
+- [CSP channels](https://github.com/costaraphael/cspex)
+- [Message bus for microservices (Redis)](https://github.com/aforward/sadbus)
+- [Job queue (transactional)](https://github.com/mbuhot/ecto_job)
+- [NSQ client](https://github.com/wistia/elixir_nsq)
+- [Beanstalkd client](https://github.com/jsvisa/elixir_talk)
+- [Nanomsg client](https://github.com/basho/enm)
+- [Job queue (in-memory, distributed)](https://github.com/mosic/exdisque)
+- [Job queue (Resque/Sidekiq)](https://github.com/akira/exq)
+- [RabbitMQ client](https://github.com/d0rc/exrabbit) [[2]](https://github.com/synrc/mqs)
+- [Priority queues](https://github.com/takscape/elixir-heapq)
+- [Worker pools](https://github.com/koudelka/honeydew)
+- [MQTT 3.1.1 client](https://github.com/suvash/hulaaki)
+- [Kafka client](https://github.com/anoskov/kafka-consumer) [[2]](https://github.com/kafkaex/kafka_ex)
+- [Queue (in-memory, worker pooling, rate limiting)](https://github.com/fredwu/opq)
+- [Priority queue](https://github.com/okeuday/pqueue) [[2]](https://github.com/falood/queuex)
+- [Background jobs (Mnesia)](https://github.com/sheharyarn/que)
+- [RabbitMQ producers/consumers](https://github.com/Nebo15/rbmq) [[2]](https://github.com/meltwater/gen_rmq)
+- [Job queue (PostgreSQL)](https://github.com/samphilipd/rihanna)
+- [Streams](https://hex.pm/packages/stream_weaver)
+- [Background jobs (RabbitMQ)](https://github.com/shinyscorpion/task_bunny)
+- [Background jobs](https://github.com/joakimk/toniq)
+- [Background jobs (Redis)](https://github.com/edgurgel/verk)
+- [Hungry-consumer model](https://github.com/pragdave/work_queue)
+- [Git changelog generation](https://github.com/Gazler/changex)
+- [Release packaging](https://github.com/bitwalker/distillery)
+- [Hex semantic versioning](https://github.com/glasnoster/eliver)
+- [Releases](https://github.com/bitwalker/exrm) [[2]](https://github.com/yrashk/relex)
+- [Releases (Debian)](https://github.com/johnhamelink/exrm_deb)
+- [Releases (Heroku)](https://github.com/epsanchezma/exrm-heroku)
+- [Releases (RPM)](https://github.com/smpallen99/exrm-rpm)
+- [Releases (Docker)](https://github.com/Recruitee/mix_docker)
+- [Docker containers Mix task](https://github.com/Nebo15/renew)
+- [Plug JSON API keys](https://github.com/sticksnleaves/accent)
+- [SOAP client](https://github.com/devinus/detergent)
+- [WSDL/SOAP client](https://github.com/r-icarus/detergentex)
+- [REST APIs](https://github.com/falood/maru)
+- [Hypermedia API toolkit](https://github.com/exstruct/mazurka)
+- [Plug Hypermedia API](https://github.com/christopheradams/plug_rest)
+- [API Authentication (key/secret based)](https://github.com/edgurgel/signaturex)
+- [REST services DSL](https://github.com/meh/urna)
+- [Plug API versioning](https://github.com/sticksnleaves/versionary)
+- [Full text search client (Elasticsearch)](https://github.com/infinitered/elasticsearch-elixir)
+- [Full text search client (Sphinx)](https://github.com/Tyler-pierce/giza_sphinxsearch)
+- [ClamAV security client](https://github.com/ramortegui/clamxir)
+- [Password pwn check](https://github.com/thiamsantos/pwned)
+- [Security helpers](https://github.com/aforward/safetybox)
+- [Phoenix security static analysis](https://github.com/nccgroup/sobelow)
+- [SSL verification](https://github.com/deadtrickster/ssl_verify_fun.erl)
+- [SMS client (Sendinblue, mailjet, msg91, textlocal)](https://hex.pm/packages/exsms)
+- [Static site generator](https://github.com/meddle0x53/blogit) [[2]](https://github.com/pablomartinezalvarez/glayu)
+- [Static site generator (minimalistic)](https://github.com/badosu/coil)
+- [Static site generator](https://github.com/Vesuvium/medusa)
+- [Static site generator](https://github.com/BennyHallett/obelisk)
+- [Static site generator](https://github.com/Dalgona/Serum)
+- [Descriptive statistics](https://github.com/pusewicz/descriptive_statistics)
+- [Metrics client](https://github.com/synrc/mtx)
+- [Mathematical helper functions](https://github.com/safwank/Numerix)
+- [Ecto time period stats](https://github.com/Tyler-pierce/simplestatex)
+- [Statistical functions](https://github.com/msharp/elixir-statistics)
+- [Mustache templates](https://github.com/soranoba/bbmustache) [[2]](https://github.com/schultyy/Mustache.ex)
+- [HAML templates](https://github.com/nurugger07/calliope)
+- [Elixir project templates](https://github.com/rwdaigle/exgen)
+- [Pug templates](https://github.com/rstacruz/expug)
+- [Slim templates](https://github.com/slime-lang/slime)
+- [Web application templating](https://github.com/sugar-framework/templates)
+- [Testing framework](https://github.com/josephwilk/amrita) [[2]](https://github.com/genericlady/chemistry)
+- [Document driven development](https://github.com/coryodaniel/apocryphal)
+- [Data generation framework](https://github.com/batate/blacksmith)
+- [HTTP load tester](https://github.com/benjamintanweihao/blitzy)
+- [Mock HTTP server](https://github.com/pspdfkit-labs/bypass)
+- [HTTP performance/load testing](https://github.com/polleverywhere/chaperon)
 
-## PDF
-
-_Libraries and software for working with PDF files._
-
-- [Native PDF generation for Elixir](https://github.com/SenecaSystems/gutenex)
-- [Convert PDF docs to beautiful HTML files without losing text or format](https://github.com/ricn/pdf2htmlex)
-- [A simple wrapper for wkhtmltopdf (HTML to PDF) for use in Elixir projects](https://github.com/gutschilla/elixir-pdf-generator)
-
-## Protocols
-
-_Special protocol and format libraries._
-
-- [RADIUS Protocol on Elixir](https://github.com/bearice/elixir-radius)
-- [Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically](https://github.com/jcomellas/ex_hl7)
-- [Ruby Marshal format implemented in Elixir](https://github.com/gaynetdinov/ex_marshal)
-- [Protocol Buffers in Elixir, made easy](https://github.com/bitwalker/exprotobuf)
-- [The Elixir implementation of gRPC](https://github.com/tony612/grpc-elixir)
-- [MessagePack Implementation for Elixir](https://github.com/mururu/msgpack-elixir)
-- [MessagePack (de)serializer implementation for Elixir](https://github.com/lexmag/msgpax)
-- [Elixir implementation for Protocol Buffers](https://github.com/ahamez/protox)
-- [Provides idiomatic Elixir bindings for Apache Thrift](https://github.com/pinterest/riffed)
-- [An Elixir library designed to be used as SIP protocol middleware](https://github.com/balena/elixir-sippet)
-- [SMPP 3.4 protocol and framework implementation in Elixir](https://github.com/savonarola/smppex)
-
-## Queue
-
-_Libraries for working with event and task queues._
-
-- [Create a data stream across your information systems to query, augment and transform data according to Elixir matching rules](https://github.com/awetzel/adap)
-- [Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr](https://github.com/pma/amqp)
-- [A framework for working with message queues, with adapters for SQS and AMQP, and plugs for reusable messaging patterns](https://github.com/conduitframework/conduit)
-- [Simple, OTP compliant, Elixir implementation of CSP channels](https://github.com/costaraphael/cspex)
-- [A dumb message bus for sharing data between microservices decoupled using Redis](https://github.com/aforward/sadbus)
-- [A transactional job queue built with Ecto, PostgreSQL and GenStage](https://github.com/mbuhot/ecto_job)
-- [NSQ client library for Elixir](https://github.com/wistia/elixir_nsq)
-- [An Elixir client for beanstalkd](https://github.com/jsvisa/elixir_talk)
-- [enm is an Erlang port driver that wraps the nanomsg C library](https://github.com/basho/enm)
-- [Elixir client for [Disque](https://github.com/antirez/disque), an in-memory, distributed job queue](https://github.com/mosic/exdisque)
-- [Job processing library for Elixir - compatible with Resque/Sidekiq](https://github.com/akira/exq)
-- [RabbitMQ bindings and DSL for Elixir](https://github.com/d0rc/exrabbit)
-- [Set of behaviours meant to be used to create RabbitMQ consumers and publishers](https://github.com/meltwater/gen_rmq)
-- [A Heap-based Priority Queue Implementation in Elixir](https://github.com/takscape/elixir-heapq)
-- [Honeydew is a worker pool library for Elixir](https://github.com/koudelka/honeydew)
-- [An MQTT 3.1.1 client library written in Elixir](https://github.com/suvash/hulaaki)
-- [Consumer for Kafka using kafka_ex](https://github.com/anoskov/kafka-consumer)
-- [Kafka client library for Elixir](https://github.com/kafkaex/kafka_ex)
-- [RabbitMQ client library, routing keys, RPC over MQ and other stuff](https://github.com/synrc/mqs)
-- [A simple, in-memory queue with worker pooling and rate limiting in Elixir](https://github.com/fredwu/opq)
-- [Erlang Priority Queue Implementation](https://github.com/okeuday/pqueue)
-- [Simple Background Job Processing with Mnesia](https://github.com/sheharyarn/que)
-- [Priority Queue with multiple backends](https://github.com/falood/queuex)
-- [Simple API for spawning RabbitMQ Producers and Consumers](https://github.com/Nebo15/rbmq)
-- [High performance postgres-backed job queue for Elixir](https://github.com/samphilipd/rihanna)
-- [Library for working with streams](https://hex.pm/packages/stream_weaver)
-- [background processing application written in Elixir and uses RabbitMQ as a messaging backend](https://github.com/shinyscorpion/task_bunny)
-- [Simple and reliable background job library for Elixir](https://github.com/joakimk/toniq)
-- [Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque](https://github.com/edgurgel/verk)
-- [Simple implementation of the hungry-consumer model in Elixir](https://github.com/pragdave/work_queue)
-
-## Release Management
-
-_Libraries and tools for release management._
-
-- [Automated changelog generation from GIT logs](https://github.com/Gazler/changex)
-- [A pure Elixir implementation of release packaging functionality for the Erlang VM](https://github.com/bitwalker/distillery)
-- [Interactive semantic versioning for Elixir packages](https://github.com/glasnoster/eliver)
-- [Automatically generate a release for your Elixir project](https://github.com/bitwalker/exrm)
-- [Create a deb for your Elixir release with ease](https://github.com/johnhamelink/exrm_deb)
-- [Publish your Elixir releases to Heroku with ease](https://github.com/epsanchezma/exrm-heroku)
-- [Create a RPM for your Elixir release with ease](https://github.com/smpallen99/exrm-rpm)
-- [Put your Elixir app production release inside minimal docker image](https://github.com/Recruitee/mix_docker)
-- [Erlang/Elixir Release Assembler](https://github.com/yrashk/relex)
-- [Mix task to create mix projects that builds into Docker containers](https://github.com/Nebo15/renew)
-
-## REST and API
-
-_Libraries and web tools for developing REST-ful APIs._
-
-- [Plug for handling the conversion of JSON API keys to different cases](https://github.com/sticksnleaves/accent)
-- [An emulsifying Erlang SOAP library](https://github.com/devinus/detergent)
-- [Elixir binding to Detergent erlang library used to call WSDL/SOAP Services](https://github.com/r-icarus/detergentex)
-- [Elixir copy of grape for creating REST-like APIs](https://github.com/falood/maru)
-- [hypermedia api toolkit](https://github.com/exstruct/mazurka)
-- [REST behaviour and Plug router for hypermedia web applications](https://github.com/christopheradams/plug_rest)
-- [Simple key/secret based authentication for APIs](https://github.com/edgurgel/signaturex)
-- [Urna is a simple DSL around cauldron to implement REST services](https://github.com/meh/urna)
-- [API versioning for Elixir Plug and Phoenix](https://github.com/sticksnleaves/versionary)
-
-## Search
-
-_Libraries related to search indexing, search algorithms and search clients._
-
-- [A simple, no-nonsense Elasticsearch library for Elixir](https://github.com/infinitered/elasticsearch-elixir)
-- [Client for Sphinx Search compatible with Manticore](https://github.com/Tyler-pierce/giza_sphinxsearch)
-
-## Security
-
-_Libraries and tools regarding security._
-
-- [ClamAV wrapper for elixir](https://github.com/ramortegui/clamxir)
-- [Check if your password has been pwned](https://github.com/thiamsantos/pwned)
-- [Security oriented helper functions for Elixir](https://github.com/aforward/safetybox)
-- [Security-focused static analysis for the Phoenix Framework](https://github.com/nccgroup/sobelow)
-- [Collection of ssl verification functions for Erlang](https://github.com/deadtrickster/ssl_verify_fun.erl)
-
-## SMS
-
-_SMS related libraries and tools._
-
-- [An Elixir library for sending transactional SMS - supports Sendinblue, mailjet, msg91 and textlocal](https://hex.pm/packages/exsms)
-
-## Static Page Generation
-
-_Tools and libraries for generating static websites and content._
-
-- [An OTP application for generating blogs from git repositories containing markdown files](https://github.com/meddle0x53/blogit)
-- [Minimalistic static content engine](https://github.com/badosu/coil)
-- [A static site generator for mid-sized sites](https://github.com/pablomartinezalvarez/glayu)
-- [Elixir static site generator that supports Pug](https://github.com/Vesuvium/medusa)
-- [Static blog and website generator](https://github.com/BennyHallett/obelisk)
-- [A simple static website generator written in Elixir](https://github.com/Dalgona/Serum)
-
-## Statistics
-
-_Libraries around the topic statistics._
-
-- [Descriptive Statistics for Elixir](https://github.com/pusewicz/descriptive_statistics)
-- [MTX supports front-end API for tracking Histogram, Meter, Counter, Gauge, Timing keys](https://github.com/synrc/mtx)
-- [A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning](https://github.com/safwank/Numerix)
-- [Ecto compatible library for simple stat keeping by time period](https://github.com/Tyler-pierce/simplestatex)
-- [Some basic statistical functions for Elixir](https://github.com/msharp/elixir-statistics)
-
-## Templating
-
-_Libraries parsing and helping with templates_
-
-- [Binary pattern match Based Mustache template engine for Erlang/OTP](https://github.com/soranoba/bbmustache)
-- [An Elixir HAML parser](https://github.com/nurugger07/calliope)
-- [Library for writing and manipulating (HTML) markup in Elixir](https://github.com/zambal/eml)
-- [A templating library for quickly generating Elixir projects](https://github.com/rwdaigle/exgen)
-- [Pug templates for Elixir](https://github.com/rstacruz/expug)
-- [Mustache templates for Elixir](https://github.com/schultyy/Mustache.ex)
-- [Mustache for Elixir - Logic-less templates](https://github.com/jui/mustachex)
-- [An Elixir library for rendering slim-like templates](https://github.com/slime-lang/slime)
-- [HTML as code in Elixir](https://github.com/ijcd/taggart)
-- [Helper library for adding templating to web applications](https://github.com/sugar-framework/templates)
-
-## Testing
-
-_Libraries for testing codebases and generating test data._
-
-- [A polite, well mannered and thoroughly upstanding testing framework for Elixir](https://github.com/josephwilk/amrita)
-- [Swagger based document driven development for ExUnit](https://github.com/coryodaniel/apocryphal)
-- [Data generation framework for Elixir](https://github.com/batate/blacksmith)
-- [A simple HTTP load tester in Elixir](https://github.com/benjamintanweihao/blitzy)
-- [Bypass provides a quick way to create a mock HTTP server with a custom plug](https://github.com/pspdfkit-labs/bypass)
-- [An HTTP service performance & load testing framework written in Elixir](https://github.com/polleverywhere/chaperon)
-- [Testing Framework for Elixir](https://github.com/genericlady/chemistry)
 - [Writes a coverage.xml from `mix test --cover` file compatible with Jenkins' Cobertura plugin](https://github.com/PSPDFKit-labs/cobertura_cover)
 - [Create stub dependencies for testing without overwriting global modules](https://github.com/sonerdy/double)
 - [Ecto plugin with default configuration for repos for testing different ecto plugins with databases](https://github.com/xerions/ecto_it)
@@ -1067,6 +985,7 @@ _Libraries for parsing and manipulating text and numbers._
 - [API client (Twilio)](https://github.com/danielberkompas/ex_twilio) [[2]](https://github.com/danielberkompas/ex_twiml)
 - [API client (Desk.com)](https://github.com/deadkarma/exdesk)
 - [API client (Facebook)](https://github.com/oivoodoo/exfacebook)
+
 - [Elixir library for the (undocumented) Rap Genius API](https://github.com/jeffweiss/exgenius)
 - [An Elixir module for generating Gravatar URLs](https://github.com/scrogson/exgravatar)
 - [interact with Sendgrid's API](https://github.com/bradleyd/exgrid)
