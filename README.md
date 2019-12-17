@@ -15,8 +15,6 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 
 > The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer. –author unknown
 
----
-
 ## Libraries
 
 - [2-way associative map](https://github.com/okeuday/key2value)
@@ -26,6 +24,7 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Algebraic structures and functions](https://github.com/expede/witchcraft)
 - [Apache htpasswd](https://github.com/kevinmontuori/Apache.htpasswd)
 - [Apache/APR style password hashing](https://github.com/kevinmontuori/Apache.PasswdMD5)
+- [API documentation generation](https://github.com/KittyHeaven/blue_bird) [[2]](https://github.com/api-hogs/bureaucrat)
 - [ASCII style tables](https://github.com/djm/table_rex)
 - [Authentication for Plug-based apps](https://github.com/ueberauth/ueberauth)
 - [Authentication with Auth0](https://hex.pm/packages/ueberauth_auth0)
@@ -63,6 +62,7 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [BSON](https://github.com/Nebo15/bsoneach) [[2]](https://github.com/ispirata/cyanide)
 - [Build system](https://github.com/HashNuke/rotor)
 - [Build tool, dependency-based](https://github.com/lycus/exmake)
+- [Burner email detector](https://github.com/Betree/burnex)
 - [Business hour calculations](https://github.com/hopsor/open_hours)
 - [Caching](https://github.com/whitfin/cachex) [[2]](https://github.com/cabol/nebulex)
 - [Calendar recurring events](https://github.com/peek-travel/cocktail)
@@ -85,6 +85,7 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Command-line (CLI) automatic generator](https://github.com/msoedov/firex)
 - [Command-line (CLI) options parser](https://github.com/jcomellas/getopt)
 - [Command-line (CLI) progress bars and spinners](https://github.com/henrik/progress_bar)
+- [Concurrency synchronization](https://github.com/jvoegele/wait_for_it)
 - [Configuration Management](https://github.com/phoenixframework/ex_conf)
 - [Configuration](https://github.com/Nebo15/confex)
 - [Connection behaviour](https://github.com/fishcakez/connection)
@@ -108,18 +109,34 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Debugging](https://github.com/zhongwencool/observer_cli) [[2]](https://github.com/qhool/quaff)
 - [Deployment automation](https://github.com/annkissam/akd) [[2]](https://github.com/labzero/bootleg)
 - [Dialyzer Mix tasks](https://github.com/jeremyjh/dialyxir)
+- [Dice with Pratt Parser algorithm](https://gitlab.com/olhado/rollex)
+- [Dice](https://github.com/stocks29/dice)
 - [Distributed in-memory Caching with pub/sub](https://github.com/jr0senblum/jc)
 - [Docker for clustered deploy](https://github.com/CrowdHailer/elixir-on-docker)
+- [Docset generation for Dash.app](https://github.com/JonGretar/ExDocDash) [[2]](https://github.com/yesmeck/hexdocset)
+- [Documentation badges for README](http://inch-ci.org/)
 - [Documentation command-line interface](https://github.com/Frost/eh)
+- [Documentation generation](https://github.com/elixir-lang/ex_doc)
+- [Documentation in API Blueprint format](https://github.com/smoku/phoenix_api_docs)
 - [Echo query results pretty print](https://github.com/aerosol/tabula)
 - [Ecto encryption](https://github.com/danielberkompas/cloak)
 - [Ecto finite state machine](https://github.com/asiniy/ecto_state_machine)
+- [Elixir to Javascript transpiler](https://github.com/elixirscript/elixirscript/)
+- [Email inline styles and plaintext version](https://github.com/jfrolich/smoothie)
+- [Email support for dkim, spf, dmark, mimemail, smtp](https://github.com/awetzel/mailibex)
+- [Email with mailers](https://github.com/kamilc/mailman)
+- [Email with Phoenix support](https://github.com/thoughtbot/bamboo)
+- [Embedded software framework](http://nerves-project.org)
 - [Encryption](https://github.com/stocks29/ezcryptex)
 - [Environment variables manager](https://github.com/KamilLelonek/figaro-elixir)
 - [Environment variables with dotenv](https://github.com/avdi/dotenv_elixir)
 - [Erlang release assembler](https://github.com/erlware/relx)
+- [Error handling with result monads](https://github.com/CrowdHailer/OK)
 - [Escript](https://github.com/liveforeverx/exscript)
+- [Ethereum RLP (Recursive Length Prefix) encoding](https://github.com/exthereum/ex_rlp)
 - [ETS based key/value storage](https://github.com/sasa1977/con_cache)
+- [Event bus](https://github.com/mustafaturan/event_bus)
+- [Event processing and monitoring](https://github.com/DeadZen/goldrush)
 - [Evolutive Neural Networks](https://github.com/zampino/exnn)
 - [Fast Mersenne Twister (SFMT) for SIMD](https://github.com/jj1bdx/sfmt-erlang/)
 - [Fault tolerance](https://github.com/tobz/elistrix)
@@ -137,8 +154,11 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Git object storage](https://github.com/awetzel/gitex)
 - [Github OAuth](https://github.com/lidashuang/github_oauth)
 - [Global binary creator](https://github.com/Lac/meld)
+- [Gmail API client](https://github.com/craigp/elixir-gmail)
 - [GPG encryption](https://github.com/rozap/exgpg)
+- [GraphQL](https://github.com/absinthe-graphql/absinthe)
 - [GTIN code validation](https://github.com/kickinespresso/ex_gtin)
+- [Happy-path programming](https://github.com/expede/exceptional) [[2]](https://github.com/vic/happy)
 - [Hash ring pooling](https://github.com/camshaft/pool_ring)
 - [Hash ring](https://github.com/reset/hash-ring-ex)
 - [Heroku buildpack for Elixir](https://github.com/HashNuke/heroku-buildpack-elixir)
@@ -146,6 +166,7 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Hot reload on file system changes](https://github.com/synrc/active)
 - [HTML/XML query selectors](https://github.com/mischov/meeseeks) [[2]](https://github.com/awetzel/sweet_xml)
 - [HTTP basic authentication](https://github.com/CultivateHQ/basic_auth)
+- [Huffman encoding](https://github.com/SenecaSystems/huffman)
 - [HyperLogLog](https://github.com/whitfin/hypex)
 - [IBAN and BIC code validation](https://github.com/railsmechanic/bankster)
 - [ICalendar parser](https://github.com/fazibear/ex_ical)
@@ -169,10 +190,13 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Luhn algorithm](https://github.com/ma2gedev/luhn_ex)
 - [LZ4 data compression](https://github.com/szktty/erlang-lz4)
 - [Machine learning](https://github.com/mrdimosthenis/emel)
+- [Markov chains](https://github.com/eljojo/ex_chain)
+- [Maru API integration for Swagger documentation](https://github.com/falood/maru_swagger)
 - [Matrices](https://github.com/a115/exmatrix)
 - [Matrices](https://github.com/versilov/matrex)
 - [Memoization macro](https://github.com/os6sense/DefMemo)
 - [Merkle hash trees](https://github.com/yosriady/merkle_tree)
+- [Meta-notifications](https://github.com/zmoshansky/echo)
 - [Milliseconds support](https://github.com/davebryson/elixir_milliseconds)
 - [Mix auto recompile code on file change](https://github.com/AgilionApps/remix)
 - [Mobile optimized silent video conversion](https://github.com/talklittle/silent_video)
@@ -183,11 +207,13 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [N-ary tree data structure](https://github.com/medhiwidjaja/nary_tree)
 - [Natural sort for lists of strings](https://github.com/DanCouper/natural_sort)
 - [NEAT algorithm](https://gitlab.com/onnoowl/Neat-Ex)
+- [Notification dispatch](https://github.com/acutario/ravenx)
 - [OAuth 1.0](https://github.com/lexmag/oauther)
 - [OAuth 2.0 client](https://github.com/scrogson/oauth2)
 - [OAuth 2.0 Facebook provider](https://github.com/chrislaskey/oauth2_facebook)
 - [OAuth 2.0 for Google Cloud APIs](https://github.com/peburrows/goth)
 - [OAuth 2.0 Github provider](https://github.com/chrislaskey/oauth2_github)
+- [Object-Oriented Programming (OOP)](https://github.com/wojtekmach/oop)
 - [One-time passwords (OTP) for Google Authenticator](https://github.com/yuce/pot)
 - [One-time passwords (OTP)](https://github.com/riverrun/one_time_pass_ecto)
 - [Parallel computation coordination compiler](https://github.com/exstruct/etude)
@@ -202,9 +228,14 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Phoenix authorization](https://github.com/schrockwell/bodyguard)
 - [Phoenix command-line interface (CLI)](https://phoenix-cli.github.io/)
 - [Phoenix debugging](https://github.com/kagux/ex_debug_toolbar)
+- [Phoenix emails](https://github.com/swoosh/swoosh)
 - [Phoenix OAuth 2.0 provider](https://github.com/mustafaturan/shield)
+- [Phoenix routes helpers in JavaScript](https://github.com/khusnetdinov/phoenix_routes_js)
+- [Phoenix to JavaScript interop](https://github.com/khusnetdinov/phoenix_gon)
+- [Pop3 email client including attachments](https://hex.pm/packages/pop3mail)
 - [Port forwarding](https://github.com/awetzel/exos)
 - [PortAudio bindings](https://github.com/asonge/erlaudio)
+- [Postmark email templates](https://github.com/KamilLelonek/ex_postmark)
 - [Pretty-print for structs/maps](https://github.com/codedge-llc/scribe)
 - [Process backpressure and flow control](https://github.com/sasa1977/workex)
 - [Process pooling](https://github.com/seth/pooler)
@@ -213,7 +244,10 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Random number generation with ISAAC algorithm](https://github.com/arianvp/elixir-isaac)
 - [Random number generation](https://erlang.org/doc/man/rand.html)
 - [Rational numbers](https://github.com/Qqwy/elixir-rational)
+- [RDF data model](https://github.com/marcelotto/rdf-ex)
+- [RDF support for JSON-LD](https://github.com/marcelotto/jsonld-ex)
 - [React server-side rendering (SSR)](https://github.com/awetzel/reaxt)
+- [Reactive event handling](https://github.com/alfert/reaxive)
 - [Rebar .dia file compiler](https://github.com/carlosedp/rebar3_diameter_compiler)
 - [Rebar ASN.1 module compiler](https://github.com/pyykkis/rebar3_asn1_compiler)
 - [Rebar ExUnit tests](https://github.com/processone/rebar3_exunit)
@@ -233,13 +267,16 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Release management](https://github.com/rubencaro/bottler)
 - [Rendezvous/Highest Random Weight (HRW) hashing algorithm](https://github.com/timdeputter/Rendezvous)
 - [Repeating dates natural language processor (NLP)](https://github.com/rcdilorenzo/repeatex)
+- [RFC2822 implementation](https://github.com/DockYard/elixir-mail)
 - [Riak CS API client](https://github.com/ayrat555/ex_riak_cs)
 - [ROCK clustering algorithm](https://github.com/ayrat555/rock)
 - [RSA keys](https://github.com/anoskov/rsa-ex)
 - [RSASSA-PSS crypto algorithm](https://github.com/potatosalad/erlang-crypto_rsassa_pss)
+- [Saga development](https://gitlab.com/cizen/cizen)
 - [SAML SP SSO](https://github.com/handnot2/samly)
 - [Sass](https://github.com/zamith/sass_elixir)
 - [Schema validation](https://github.com/zbarnes757/jeaux) [[2]](https://github.com/albert-io/optimal)
+- [Sentry error notifier client](https://github.com/getsentry/sentry-elixir)
 - [Service discovery with Consul](https://github.com/undeadlabs/discovery)
 - [Short-lived keys checking](https://github.com/wooga/locker)
 - [Signal synthesis](https://github.com/bitgamma/synthex)
@@ -248,8 +285,12 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Slack bot framework](https://github.com/alice-bot/alice)
 - [Slack bots](https://github.com/koudelka/slacker)
 - [Slackbot](https://github.com/techgaun/ex_mustang)
+- [SMTP server/client](https://github.com/Vagabond/gen_smtp) [[2]](https://github.com/antp/mailer)
+- [Social feeds](https://github.com/erneestoc/feedx)
 - [Sojourn-time queue management](https://github.com/fishcakez/sbroker)
 - [Sorted Sets](https://github.com/SenecaSystems/sorted_set)
+- [SPARQL](https://github.com/marcelotto/sparql-ex)
+- [SpiderMonkey parser](https://github.com/bryanjos/elixir-estree)
 - [Spinlocks](https://github.com/whitfin/sleeplocks)
 - [SSL Authentication for Plug-based apps](https://github.com/jshmrtn/phoenix-client-ssl)
 - [State machines](https://github.com/joaomdmoura/machinery)
@@ -259,6 +300,7 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [Stockfighter API](https://github.com/shanewilton/stockastic)
 - [Stream count estimation with "space saving" algorithm](https://github.com/rozap/spacesaving)
 - [Supermemo 2 algorithm](https://github.com/edubkendo/supermemo)
+- [Swagger API integration](https://github.com/xerions/phoenix_swagger)
 - [Telegram bots](https://github.com/rockneurotiko/ex_gram) [[2]](https://github.com/Yawolf/yocingo)
 - [Term frequency algorithm](https://github.com/OCannings/tf-idf)
 - [Terminal UI (TUI) kit](https://github.com/ndreynolds/ratatouille)
@@ -277,142 +319,14 @@ Lucky for you, we've done the hard work of divining the best available lib for e
 - [XMPP Client/Bot framework](https://github.com/hedwig-im/hedwig)
 - [YAML config file reader](https://github.com/d0rc/sweetconfig)
 - [YAML parser](https://github.com/processone/fast_yaml) [[2]](https://github.com/yakaz/yamerl)
-
-* [BlueBird is a library written in the Elixir programming language for the Phoenix framework. It lets you generate API documentation in the API Blueprint format from annotations in controllers and automated tests](https://github.com/KittyHeaven/blue_bird)
-* [Generate Phoenix API documentation from tests](https://github.com/api-hogs/bureaucrat)
-* [ExDoc is a tool to generate documentation for your Elixir projects](https://github.com/elixir-lang/ex_doc)
-* [Formatter for ExDoc to generate docset documentation for use in Dash.app](https://github.com/JonGretar/ExDocDash)
-* [Convert hex doc to Dash.app's docset format](https://github.com/yesmeck/hexdocset)
-* [Documentation badges for Ruby & Elixir](http://inch-ci.org/)
-* [Add swagger compliant documentation to your maru API](https://github.com/falood/maru_swagger)
-* [Generate API Blueprint documentation from controllers and tests in the Phoenix framework](https://github.com/smoku/phoenix_api_docs)
-* [Provides swagger integration to the Phoenix framework](https://github.com/xerions/phoenix_swagger)
-
-## Domain-specific language
-
-_Specialized computer languages for a particular application domain._
-
-- [Fully featured GraphQL library](https://github.com/absinthe-graphql/absinthe)
-- [An implementation of the [JSON-LD](http://www.w3.org/TR/json-ld/) standard for [RDF.ex](https://github.com/marcelotto/rdf-ex)](https://github.com/marcelotto/jsonld-ex)
-- [An implementation of the [RDF](https://www.w3.org/TR/rdf11-primer/) data model in Elixir](https://github.com/marcelotto/rdf-ex)
-- [An implementation of the [SPARQL](http://www.w3.org/TR/sparql11-overview/) standards in Elixir](https://github.com/marcelotto/sparql-ex)
-
-## ECMAScript
-
-_Implementations working with JavaScript, JScript or ActionScript._
-
-- [A transcompiler from Elixir to Javascript](https://github.com/elixirscript/elixirscript/)
-- [A implementation of the SpiderMonkey Parser API in Elixir](https://github.com/bryanjos/elixir-estree)
-- [Allow you to pass Phoenix environment or controller variables to JavaScript without problems](https://github.com/khusnetdinov/phoenix_gon)
-- [Phoenix routes helpers in JavaScript code and browser console](https://github.com/khusnetdinov/phoenix_routes_js)
-
-## Email
-
-_Working with Email and stuff._
-
-- [Composable, testable and adapter based email library. Out of the box support for rendering with Phoenix and a plug for previewing sent emails in dev](https://github.com/thoughtbot/bamboo)
-- [Burner email (temporary address) detector](https://github.com/Betree/burnex)
-- [A meta-notification system; Echo checks notification preferences & dispatches notifications](https://github.com/zmoshansky/echo)
-- [Postmark adapter for sending template emails in Elixir](https://github.com/KamilLelonek/ex_postmark)
-- [A generic Erlang SMTP server and client that can be extended via callback modules](https://github.com/Vagabond/gen_smtp)
-- [A simple Gmail REST API client for Elixir](https://github.com/craigp/elixir-gmail)
-- [An RFC2822 implementation in Elixir, built for composability](https://github.com/DockYard/elixir-mail)
-- [A simple SMTP mailer](https://github.com/antp/mailer)
-- [Library containing Email-related implementations in Elixir: dkim, spf, dmark, mimemail, smtp](https://github.com/awetzel/mailibex)
-- [Mailman provides a clean way of defining mailers in your Elixir applications](https://github.com/kamilc/mailman)
-- [Pop3 client to download email (including attachments) from the inbox via the commandline or Elixir API](https://hex.pm/packages/pop3mail)
-- [Notification dispatch library for Elixir applications](https://github.com/acutario/ravenx)
-- [Smoothie inline styles of your email templates, and generates a plain text version from the HTML](https://github.com/jfrolich/smoothie)
-- [Compose, deliver and test your Emails easily in Elixir with adapters for SMTP, Sendgrid, Mandrill, Mailgun, Postmark and Phoenix integration with mailbox preview](https://github.com/swoosh/swoosh)
-
-## Embedded Systems
-
-_Embedded systems development._
-
-- [A framework for writing embedded software in Elixir](http://nerves-project.org)
-
-## Encoding and Compression
-
-_Transforming data in different formats or compressing it._
-
-- [Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding](https://github.com/exthereum/ex_rlp)
-- [Huffman encoding and decoding in Elixir](https://github.com/SenecaSystems/huffman)
-
-## Errors and Exception Handling
-
-_Working with errors and exceptions._
-
-- [Helpers for happy-path programming & exception handling](https://github.com/expede/exceptional)
-- [Happy path programming, alternative to elixir `with` form](https://github.com/vic/happy)
-- [Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator](https://github.com/CrowdHailer/OK)
-- [The Official Elixir client for [Sentry](https://sentry.io/)](https://github.com/getsentry/sentry-elixir)
-
-## Eventhandling
-
-_Sending/Emitting and receiving/handling Events in Elixir._
-
-- [Build highly concurrent, monitorable, and extensible applications with a collection of sagas](https://gitlab.com/cizen/cizen)
-- [Simple event bus implementation with topic filtering and built-in event store and event watcher](https://github.com/mustafaturan/event_bus)
-- [Small, Fast event processing and monitoring for Erlang/OTP applications](https://github.com/DeadZen/goldrush)
-- [Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions](https://github.com/alfert/reaxive)
-- [Provides convenient and easy-to-use facilities for synchronizing concurrent activities](https://github.com/jvoegele/wait_for_it)
-
-## Examples and funny stuff
-
-_Example code and stuff too funny or curious not to mention._
-
-- [A Butler plugin for showing silly photos of Nick Cage](https://github.com/keathley/butler_cage)
-- [Flipping tables with butler](https://github.com/keathley/butler_tableflip)
-- [CMS that runs changelog.com built with Phoenix 1.4](https://github.com/thechangelog/changelog.com)
-- [GraphQL api for coderplanets.com built with Phoenix 1.4 and Absinthe](https://github.com/coderplanets/coderplanets_server)
-- [Roll the dice, in Elixir](https://github.com/stocks29/dice)
-- [[Elixir koans](http://elixirkoans.io/) is a fun, easy way to get started with the elixir programming language](https://github.com/elixirkoans/elixir-koans)
-- [Simple Markov Chain that generates funny tweets, built using Elixir](https://github.com/eljojo/ex_chain)
-- [This package is for interfacing with the Open Notify API to information such as the ISS's current location, crew, and when it will pass over a location](https://github.com/cryptobird/ex_iss)
-- [Add social feed functionality to current applications. Exemplify OTP umbrella app, with 3 apps. Thin phoenix controllers](https://github.com/erneestoc/feedx)
-- [Help applications kill themselves](https://github.com/rubencaro/harakiri)
-- [Application template for SPAs with Phoenix, React and Redux](https://github.com/bigardone/phoenix-react-redux-template)
-- [Source code for the hex package manager site built with Phoenix 1.3](https://github.com/hexpm/hexpm)
-- [Watch Japan's Kanji Usage on Twitter in Realtime](https://github.com/SebastianSzturo/kaisuu)
-- [Learn Elixir by using elixir-koans](https://github.com/dojo-toulouse/elixir-koans)
-- [This is the clone of busyloop/lolcat. But it does not support animation and some features of the original](https://github.com/restartr/ex-lolcat)
-- [Web application that indexes all popular torrent sites, and saves it to the local database](https://github.com/sergiotapia/magnetissimo)
-
-- [oop](https://github.com/wojtekmach/oop) - OOP in Elixir!
-  [An experiment with Phoenix Channels, GenEvents, React and Flux](https://github.com/fxg42/phoenix-flux-react)
-  [A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir](https://github.com/josevalim/portal)
-  [Elixir / Phoenix implementation of [RealWorld.io](https://realworld.io/) backend specs - a Medium clone](https://github.com/gothinkster/elixir-phoenix-realworld-example-app)
-  [Elixir library using a Pratt Parser algorithm to calculate dice rolls](https://gitlab.com/olhado/rollex)
-  [A very simple (and barely-functioning) Ruby runner for Elixir](https://github.com/YellowApple/Rubix)
-  [Elixir Phoenix app to chat anonymously with a randomly chosen stranger](https://github.com/cazrin/stranger)
-  [Source code for Hashrocket's TIL website built with Phoenix 1.3](https://github.com/hashrocket/tilex)
-  [A command line weather app built using Elixir](https://github.com/tacticiankerala/elixir-weather)
-
-## Feature Flags and Toggles
-
-_Libraries to manage feature toggles (AKA feature flags): ON/OFF values that can be toggled at runtime through some interface_
-
-- [Feature flipping for the Elixir world](https://github.com/sorentwo/flippant)
-- [A feature toggle library using Redis or Ecto for persistence, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug](https://github.com/tompave/fun_with_flags)
-- [A feature toggle library using redis or SQL (using Ecto) as a backing service](https://github.com/securingsincity/molasses)
-
-## Feeds
-
-_Libraries working with feeds like RSS or ATOM._
-
-- [ATOM feed builder with a focus on standards compliance, security and extensibility](https://github.com/Betree/atomex)
-- [Parse RSS and Atom feeds](https://github.com/michaelnisi/feeder)
-- [RSS feed parser. Simple wrapper for feeder](https://github.com/manukall/feeder_ex)
-- [RSS/Atom parser built on erlang's xmerl xml parser](https://github.com/umurgdk/elixir-feedme)
-
-## Files and Directories
-
-_Libraries and implementations for working with files and directories._
-
-- [Flexible file upload and attachment library for Elixir](https://github.com/stavro/arc)
-- [Extensible file upload library with support for SFTP, S3 and Filesystem storage](https://bitbucket.org/pentacent/belt/)
-- [Monitor Linux file system events](https://github.com/jquadrin/cassius)
-- [DirWalker lazily traverses one or more directory trees, depth first, returning successive file names](https://github.com/pragdave/dir_walker)
+- [Feature flags](https://github.com/sorentwo/flippant) [[2]](https://github.com/tompave/fun_with_flags)
+- [ATOM feeds](https://github.com/Betree/atomex)
+- [RSS/Atom feeds](https://github.com/michaelnisi/feeder) [[2]](https://github.com/umurgdk/elixir-feedme)
+- [RSS feeds](https://github.com/manukall/feeder_ex)
+- [File upload and attachment](https://github.com/stavro/arc)
+- [File upload filesystem, SFTP, and S3](https://bitbucket.org/pentacent/belt/)
+- [Linux file system event monitoring](https://github.com/jquadrin/cassius)
+- [Directory traversal](https://github.com/pragdave/dir_walker)
 - [A framework for doing Hadoop style Map/Reduce operations on collections of files](https://github.com/bbense/elixgrep)
 - [ExGuard is a mix command to handle events on file system modifications](https://github.com/slashmili/ex_guard)
 - [Globbing paths without walking the tree!](https://github.com/gniquil/ex_minimatch)
@@ -427,87 +341,73 @@ _Libraries and implementations for working with files and directories._
 - [A cross-platform file watcher for Elixir based on fswatch](https://github.com/whitfin/sentix)
 - [An Elixir library to make file sizes human-readable](https://github.com/arvidkahl/sizeable)
 - [Filename sanitization for Elixir](https://github.com/ricn/zarex)
-
-## Formulars
-
-_Handling web formulars and similar stuff._
-
-- [Erlang Business Documents Generator](https://github.com/spawnproc/forms)
-
-## Framework Components
-
-_Standalone component from web development frameworks._
-
-- [Plug support for Absinthe](https://github.com/absinthe-graphql/absinthe_plug)
-- [Authentication framework that can be used with or outside of phoenix. Similar to Addict but geared towards API usage.([Docs](https://hexdocs.pm/access_pass/api-reference.html#content))](https://github.com/AppDoctorIo/accesspass)
-- [User authentication for Phoenix Framework](https://github.com/trenpixster/addict)
-- [Report errors in your Plug stack or whatever to Airbrake](https://github.com/romul/airbrake_plug)
-- [A code generation tool for the Phoenix web framework](https://github.com/nickgartmann/ashes)
-- [Elixir Plug for cleaner request params in web apps](https://github.com/sheharyarn/better_params)
-- [Basic Access Authentication in Plug applications](https://github.com/lexmag/blaguth)
-- [Command handling middleware for Command Query Responsibility Segregation (CQRS) applications](https://github.com/slashdotdash/commanded)
-- [An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS)](https://github.com/mschae/cors_plug)
-- [Elixir library for dealing with CORS requests](https://github.com/whatyouhide/corsica)
-- [CRUD utilities for Phoenix and Ecto](https://github.com/bitgamma/crudex)
-- [A repository _similar_ to `Ecto.Repo` that works with REST API requests instead of a database](https://github.com/inaka/Dayron)
-- [ExAdmin is an auto administration package for Elixir and the Phoenix Framework](https://github.com/smpallen99/ex_admin)
-- [A few elixir libraries for working with django](https://github.com/nicksanders/exdjango)
-- [Simple reCaptcha display/verify code for Elixir applications](https://github.com/adanselm/exrecaptcha)
-- [Simple query params filtering for Phoenix framework inspired by Rails has_scope](https://github.com/omohokcoj/filterable)
-- [An Elixir binding for [libgraphqlparser](https://github.com/graphql/libgraphqlparser)](https://github.com/graphql-elixir/graphql_parser)
-- [HTTP Router with various macros to assist in developing your application and organizing your code](https://github.com/sugar-framework/elixir-http-router)
-- [Pagination for Ecto and Phoenix](https://github.com/elixirdrops/kerosene)
-- [An authentication module for Plug applications](https://github.com/sajmoon/mellon)
-- [Plug that allows to add version compatibility layers via API Request/Response Gateways](https://github.com/Nebo15/multiverse)
-- [Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters](https://github.com/vic/params)
-- [Passport provides authentication for Phoenix applications](https://github.com/opendrops/passport)
+- [Business forms generator](https://github.com/spawnproc/forms)
+- [Absinthe Plug support](https://github.com/absinthe-graphql/absinthe_plug)
+- [Phoenix authentication API framework](https://github.com/AppDoctorIo/accesspass)
+- [Phoenix authentication](https://github.com/trenpixster/addict)
+- [Airbrake error notifier](https://github.com/romul/airbrake_plug)
+- [Phoenix code generation](https://github.com/nickgartmann/ashes)
+- [Web app request param cleaning](https://github.com/sheharyarn/better_params)
+- [Command Query Responsibility Segregation (CQRS)](https://github.com/slashdotdash/commanded)
+- [CORS headers](https://github.com/mschae/cors_plug) [[2]](https://github.com/whatyouhide/corsica)
+- [Phoenix/Ecto CRUD](https://github.com/bitgamma/crudex)
+- [Ecto REST API interface](https://github.com/inaka/Dayron)
+- [Web app auto administration](https://github.com/smpallen99/ex_admin)
+- [Django interface](https://github.com/nicksanders/exdjango)
+- [reCaptcha support](https://github.com/adanselm/exrecaptcha)
+- [Phoenix query params filtering](https://github.com/omohokcoj/filterable)
+- [GraphQL](https://github.com/graphql-elixir/graphql_parser)
+- [HTTP Router](https://github.com/sugar-framework/elixir-http-router)
+- [Phoenix/Ecto pagination](https://github.com/elixirdrops/kerosene)
+- [Plug authentication](https://github.com/sajmoon/mellon)
+- [Plug API versioning](https://github.com/Nebo15/multiverse)
+- [Ecto parameter validation](https://github.com/vic/params)
+- [Phoenix authentication](https://github.com/opendrops/passport)
 - [Phoenix and Ecto integration](https://github.com/phoenixframework/phoenix_ecto)
-- [Phoenix Template Engine for Haml](https://github.com/chrismccord/phoenix_haml)
-- [Phoenix.HTML functions for working with HTML strings and templates](https://github.com/phoenixframework/phoenix_html)
-- [HTML Sanitizer integration for Phoenix](https://github.com/elixirstatus/phoenix_html_sanitizer)
-- [Some helpers for phoenix html (truncate, time_ago_in_words, number_with_delimiter)](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers)
-- [A project that integrates Phoenix with Linguist, providing a plug and view helpers](https://github.com/jxs/phoenix_linguist)
-- [Provides live-reload functionality for Phoenix](https://github.com/phoenixframework/phoenix_live_reload)
-- [Generate meta tags for a website](https://github.com/hlongvu/phoenix_meta_tags)
-- [Postgresql PubSub adapter for Phoenix apps](https://github.com/opendrops/phoenix-pubsub-postgres)
-- [RabbitMQ adapter for Phoenix's PubSub layer](https://github.com/pma/phoenix_pubsub_rabbitmq)
+- [Phoenix HAML templates](https://github.com/chrismccord/phoenix_haml)
+- [Phoenix HTML helpers](https://github.com/phoenixframework/phoenix_html) [[2]](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers)
+- [Phoenix HTML sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer)
+- [Phoenix i18n](https://github.com/jxs/phoenix_linguist)
+- [Phoenix live-reload](https://github.com/phoenixframework/phoenix_live_reload)
+- [Phoenix meta tags](https://github.com/hlongvu/phoenix_meta_tags)
+- [Phoenix PubSub PostgreSQL adapter](https://github.com/opendrops/phoenix-pubsub-postgres)
+- [Phoenix PubSub RabbitMQ adapter](https://github.com/pma/phoenix_pubsub_rabbitmq)
 - [The Redis PubSub adapter for the Phoenix framework](https://github.com/phoenixframework/phoenix_pubsub_redis)
-- [The VerneMQ MQTT pubsub adapter for the Phoenix framework](https://github.com/larshesel/phoenix_pubsub_vernemq)
-- [Slim template support for Phoenix](https://github.com/slime-lang/phoenix_slime)
-- [Token authentication solution for Phoenix. Useful for APIs or single page apps](https://github.com/manukall/phoenix_token_auth)
-- [A specification and conveniences for composable modules in between web applications](https://github.com/elixir-lang/plug)
-- [Plug for writing access logs](https://github.com/mneudert/plug_accesslog)
-- [Set up a Plug application with less boilerplate](https://github.com/henrik/plug_and_play)
-- [Collection of authentication-related plugs](https://github.com/bitgamma/plug_auth)
-- [Plug to ensure all requests are served from a single canonical host](https://github.com/remiprev/plug_canonical_host)
-- [Plug for adding simple health checks to your app](https://github.com/ggpasqualino/plug_checkup)
-- [Inspired by mod_cloudflare, this Elixir plug parses Cloudflares CF-Connecting-IP HTTP request header into Plug.Conn's remote_ip field](https://github.com/c-rack/plug_cloudflare)
-- [Very simple plug which reads X-Forwarded-For or Forwarded header according to RFC7239 and fill conn.remote_ip with the root client ip](https://github.com/awetzel/plug_forwarded_peer)
-- [A Plug that adds fprof tracing to requests, to allow for easy profiling](https://github.com/obmarg/plug_fprof)
-- [Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/)](https://github.com/graphql-elixir/plug_graphql)
-- [A plug for responding to heartbeat requests](https://github.com/whatyouhide/plug_heartbeat)
-- [Plug for JWT authentication](https://github.com/bryanjos/plug_jwt)
-- [Plug for adding simple cookie-based authentication](https://github.com/azranel/plug_password)
-- [Rails compatible Plug session store](https://github.com/cconstantin/plug_rails_cookie_session_store)
-- [Plug to redirect http requests to https requests behind a reverse proxy](https://github.com/stocks29/plug_redirect_https)
-- [Require and extract HTTP headers and handle missing ones](https://github.com/DevL/plug_require_header)
-- [easy manipulation of HTTP response headers](https://github.com/c-rack/plug_response_header)
-- [Injects a ribbon to your web application in the development environment](https://github.com/stnly/plug_ribbon)
-- [Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure](https://github.com/techgaun/plug_secex)
-- [A very simple memcached session store for Elixir's plug](https://github.com/gutschilla/plug-session-memcached)
-- [AWS Signature V4 authentication protection for Phoenix/Plug Routes ([Docs](https://hexdocs.pm/plug_sigaws/PlugSigaws.html))](https://github.com/handnot2/plug_sigaws)
-- [A plug for automatically sending timing and count metrics to statsd](https://github.com/jeffweiss/plug_statsd)
-- [Collection of Plug middleware for web applications](https://github.com/sugar-framework/plugs)
-- [Bugsnag notifier for Elixir's plug](https://github.com/jarednorman/plugsnag)
-- [Capture bugs and send them to Raygun](https://github.com/cobenian/raygun)
-- [Render React.js components in Phoenix views focusing on easy installation and Brunch compatibility](https://github.com/geolessel/react-phoenix)
-- [Resin is a plug that will add a configurable delay to every request that's passing through it, unless run in production](https://github.com/Frost/resin)
-- [Plug application and middleware that serves endpoint returns application's REVISION](https://github.com/KazuCocoa/revision_plate_ex)
-- [A configurable framework to search, sort and paginate Ecto Queries](https://github.com/Excipients/rummage_ecto)
-- [A support framework for searching, sorting and paginating models in Phoenix, with HTML support](https://github.com/Excipients/rummage_phoenix)
-- [A mix task for creating new projects based on templates fetched from a Git-repo](https://github.com/gausby/scaffold)
-- [Paginate your Ecto queries](https://github.com/drewolson/scrivener)
-- [Helpers for paginating API responses with Scrivener and HTTP headers](https://github.com/doomspork/scrivener_headers)
+- [Phoenix PubSub VerneMQ MQTT adapter](https://github.com/larshesel/phoenix_pubsub_vernemq)
+- [Phoenix Slim templates](https://github.com/slime-lang/phoenix_slime)
+- [Phoenix token authentication](https://github.com/manukall/phoenix_token_auth)
+- [Web application middleware Plug](https://github.com/elixir-lang/plug)
+- [Plug access logs](https://github.com/mneudert/plug_accesslog)
+- [Plug without boiletplate](https://github.com/henrik/plug_and_play)
+- [Plug authentication](https://github.com/bitgamma/plug_auth)
+- [Plug canonical host](https://github.com/remiprev/plug_canonical_host)
+- [Plug app health checks](https://github.com/ggpasqualino/plug_checkup)
+- [Plug Cloudflare IP header support](https://github.com/c-rack/plug_cloudflare)
+- [Plug Forwarded (RFC7239) IP header support](https://github.com/awetzel/plug_forwarded_peer)
+- [Plug tracing and profiling](https://github.com/obmarg/plug_fprof)
+- [Plug GraphQL](https://github.com/graphql-elixir/plug_graphql)
+- [Plug heartbeat requests](https://github.com/whatyouhide/plug_heartbeat)
+- [Plug JWT authentication](https://github.com/bryanjos/plug_jwt)
+- [Plug cookie-based authentication](https://github.com/azranel/plug_password)
+- [Plug Rails session store support](https://github.com/cconstantin/plug_rails_cookie_session_store)
+- [Plug HTTPS reverse proxy redirect](https://github.com/stocks29/plug_redirect_https)
+- [Plug HTTP headers validation](https://github.com/DevL/plug_require_header) [[2]](https://github.com/c-rack/plug_response_header)
+- [Plug ribbon in dev](https://github.com/stnly/plug_ribbon)
+- [Plug HTTP security headers](https://github.com/techgaun/plug_secex)
+- [Plug Memcached](https://github.com/gutschilla/plug-session-memcached)
+- [Plug AWS Signature V4 authentication](https://github.com/handnot2/plug_sigaws)
+- [Plug timing/count metrics with statsd](https://github.com/jeffweiss/plug_statsd)
+- [Plug middleware framework](https://github.com/sugar-framework/plugs)
+- [Plug Bugsnag notifier](https://github.com/jarednorman/plugsnag)
+- [Raygun error notifier](https://github.com/cobenian/raygun)
+- [Phoenix React.js components](https://github.com/geolessel/react-phoenix)
+- [Plug request delays outside of production](https://github.com/Frost/resin)
+- [Plug application REVISION endpoint](https://github.com/KazuCocoa/revision_plate_ex)
+- [Ecto search, sort, and paginate](https://github.com/Excipients/rummage_ecto)
+- [Phoenix search, sort and paginate](https://github.com/Excipients/rummage_phoenix)
+- [Project scaffolding](https://github.com/gausby/scaffold)
+- [Ecto pagination](https://github.com/drewolson/scrivener)
+- [API pagination headers](https://github.com/doomspork/scrivener_headers)
 - [Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks](https://github.com/mgwidmann/scrivener_html)
 - [An authentication framework for Phoenix extending guardian with routing and other basic functionality](https://github.com/britton-jb/sentinel)
 - [Torch is a rapid admin generator for Phoenix apps. It uses generators rather than DSLs to ensure that the code remains maintainable](https://github.com/infinitered/torch)
@@ -1452,7 +1352,17 @@ _Utilities libraries._
 - Flat list (no taxonomy) enables quick reference.
 - Each entry is just a category name with a link to the best library for dealing with it.
 - Link to the Hex package when possible, otherwise to the source code page.
-- Can add a runner-up as [[2]](https://link-to-runner-up.com)
+- Runner-up tagged as [[2]](https://link-to-runner-up.com)
+- If there is a good Erlang alternative tag it with [[erl]](http://link-to-erlang-lib.com)
+
+## Preference Rules
+
+All else being equal:
+
+- Prefer stdlib to a third party package
+- Prefer the better tested version
+- Prefer the faster solution
+- Prefer the more mature solution
 
 ## Contributing
 
