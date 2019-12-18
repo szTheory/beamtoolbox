@@ -913,6 +913,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Admin scaffolds](https://github.com/infinitered/torch)
 - [API Authentication](https://hex.pm/packages/access_pass)
 - [API documentation generator](https://hex.pm/packages/blue_bird) [[2]](https://hex.pm/packages/bureaucrat)
+- [API specification (Swagger)](https://github.com/xerions/phoenix_swagger)
 - [Authentication and user management](https://hex.pm/packages/coherence) [[2]](https://hex.pm/packages/addict)
 - [Authorization](https://hex.pm/packages/bodyguard)
 - [Debug toolbar](https://hex.pm/packages/ex_debug_toolbar)
@@ -924,27 +925,25 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [HAML templates](https://hex.pm/packages/phoenix_haml)
 - [HTML helpers](https://hex.pm/packages/phoenix_html) [[2]](https://hex.pm/packages/phoenix_html_simplified_helpers)
 - [HTML sanitizer](https://hex.pm/packages/phoenix_html_sanitizer)
-- [Instrumenter for Prometheus](https://github.com/deadtrickster/prometheus-phoenix)
+- [Instrumentation (Prometheus)](https://hex.pm/packages/prometheus_phoenix)
+- [Integration test selectors](https://hex.pm/packages/test_selector)
 - [Internationalization (i18n)](https://hex.pm/packages/phoenix_linguist)
-- [JavaScript interop](https://github.com/khusnetdinov/phoenix_gon)
-- [Live-reload](https://github.com/phoenixframework/phoenix_live_reload)
-- [Meta tags](https://github.com/hlongvu/phoenix_meta_tags)
-- [OAuth 2.0 provider](https://github.com/mustafaturan/shield)
-- [PubSub PostgreSQL adapter](https://github.com/opendrops/phoenix-pubsub-postgres)
-- [PubSub RabbitMQ adapter](https://github.com/pma/phoenix_pubsub_rabbitmq)
-- [PubSub VerneMQ MQTT adapter](https://github.com/larshesel/phoenix_pubsub_vernemq)
-- [Query params filtering](https://github.com/omohokcoj/filterable)
-- [React.js components](https://github.com/geolessel/react-phoenix)
-- [Redis PubSub adapter](https://github.com/phoenixframework/phoenix_pubsub_redis)
-- [Routes helpers in JavaScript](https://github.com/khusnetdinov/phoenix_routes_js)
-- [Search, sort and paginate](https://github.com/Excipients/rummage_phoenix)
-- [Security static analysis](https://github.com/nccgroup/sobelow)
-- [Slim templates](https://github.com/slime-lang/phoenix_slime)
-- [Specs](https://github.com/antonmi/espec_phoenix)
+- [JavaScript env variables](https://hex.pm/packages/phoenix_gon)
+- [Live-reload](https://hex.pm/packages/phoenix_live_reload)
+- [Meta tags](https://hex.pm/packages/phoenix_meta_tags)
+- [OAuth 2.0 provider](https://hex.pm/packages/authable)
+- [PubSub PostgreSQL adapter](https://hex.pm/packages/phoenix_pubsub_postgres)
+- [PubSub RabbitMQ adapter](https://hex.pm/packages/phoenix_pubsub_rabbitmq)
+- [PubSub VerneMQ MQTT adapter](https://hex.pm/packages/vmq_commons)
+- [Query params scopes/filtering](https://hex.pm/packages/filterable)
+- [React.js components](https://hex.pm/packages/react_phoenix)
+- [Redis PubSub adapter](https://hex.pm/packages/phoenix_pubsub_redis)
+- [Routes helpers in JavaScript](https://hex.pm/packages/phoenix_routes_js)
+- [Search, sort and paginate](https://hex.pm/packages/rummage_phoenix)
+- [Security static analysis](https://hex.pm/packages/sobelow)
+- [Slim templates](https://hex.pm/packages/phoenix_slime)
+- [Specs/Behavior Driven Development (BDD)](https://hex.pm/packages/espec_phoenix)
 - [SSL client authentication](https://hex.pm/packages/phoenix_client_ssl)
-- [Swagger API integration](https://github.com/xerions/phoenix_swagger)
-- [Test helpers](https://github.com/DefactoSoftware/test_selector)
-- [Token authentication](https://github.com/manukall/phoenix_token_auth)
 
 ## API Clients
 
@@ -1058,6 +1057,8 @@ All else being equal:
 - Prefer the more mature solution
 
 ## Contributing
+
+Contributes are welcome!
 
 - Please only request a change if you have experience using the library in a project.
 - If you think there is a better library for one of the entries, simply create a PR and move the current choice to runner-up. If there was already a runner-up, it falls off the list.
