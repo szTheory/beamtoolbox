@@ -151,6 +151,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [DalmatinerDB client](https://github.com/dalmatinerdb/dproto) [[2]](https://github.com/dalmatinerdb/dqe)
 - [Dashboards](https://github.com/kittoframework/kitto)
 - [Data generation framework](https://github.com/batate/blacksmith)
+- [Data processing pipelines](https://hex.pm/packages/broadway)
 - [Data streams](https://github.com/awetzel/adap)
 - [Data structs](https://hex.pm/packages/data_morph)
 - [Data transformation](https://github.com/edubkendo/kitsune)
