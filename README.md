@@ -1008,6 +1008,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Pornography (Redtube)](https://hex.pm/packages/redtube)
 - [Project management (Asana)](https://hex.pm/packages/asanaficator)
 - [Project management (Trello)](https://hex.pm/packages/currently)
+- [Project management (YouTrack)](https://github.com/unifysell/youtrack_logger_backend)
 - [Public transport, Dublin (Dublin busses)](https://github.com/carlo-colombo/dublin-bus-api)
 - [Push notifications (Apple Push Notifications)](https://github.com/chvanikoff/apns4ex)
 - [Random user generator (randomuser.me)](https://hex.pm/packages/random_user) [[2]](https://hex.pm/packages/random_user_api)
@@ -1043,7 +1044,6 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - Link to Hex package when possible, otherwise to source code page
 - Tag a second alternative with [[2]](https://link-to-runner-up.com)
 - Tag the best Erlang alternative with [[erl]](http://link-to-erlang-lib.com)
-- [Project management (YouTrack)](https://github.com/unifysell/youtrack_logger_backend)
 
 ## Preference Rules
 
