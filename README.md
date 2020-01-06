@@ -1,6 +1,6 @@
-# Elixir Bestlib
+# Elixir Libs
 
-The best Elixir libraries by category. All killer, no filler.
+Curated Elixir libraries by category. All killer, no filler.
 
 ## About
 
