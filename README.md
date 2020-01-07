@@ -402,7 +402,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Kafka client](https://github.com/anoskov/kafka-consumer) [[2]](https://github.com/kafkaex/kafka_ex)
 - [Key/value store](https://github.com/whitfin/stash)
 - [Key/value stores unified interface](https://github.com/christhekeele/mnemonix)
-- [Kubernetes client](https://github.com/obmarg/kazan) [[2]](<(https://github.com/ingerslevio/kubex)>)
+- [Kubernetes client](https://github.com/obmarg/kazan) [[2]](https://github.com/ingerslevio/kubex)
 - [Kubernetes Operator Development Framework](https://github.com/coryodaniel/bonny)
 - [Lager backend](https://github.com/PSPDFKit-labs/lager_logger)
 - [LDAP](https://github.com/jmerriweather/exldap)
