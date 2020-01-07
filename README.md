@@ -11,7 +11,7 @@ The BEAM ecosystem is vast and hard to navigate. For any task you must evaluate 
 - Hex packages (Elixir)
 - Rebar packages (Erlang)
 
-Lucky for you, we've done the hard work of curating the best available lib for each problem class. [Disagree with our choices?](https://github.com/szTheory/elixir-bestlib/pulls)
+Lucky for you, we've done the hard work of curating the best available libs for each problem class. [Disagree with our choices?](https://github.com/szTheory/elixir-bestlib/pulls)
 
 > The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer. –author unknown
 
