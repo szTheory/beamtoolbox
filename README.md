@@ -22,6 +22,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Phoenix](#phoenix)
 - [Ecto](#ecto)
 - [API Clients](#api-clients)
+- [Erlang Specific](#erlang-specific)
 
 ## General Libraries
 
@@ -1027,7 +1028,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Weather (Dark Sky)](https://hex.pm/packages/forecast_io) [[2]](https://github.com/techgaun/darkskyx)
 - [Web analytics (Mixpanel)](https://hex.pm/packages/mexpanel) [[2]](https://github.com/michihuber/mixpanel_ex)
 
-## Erlang specific
+## Erlang Specific
 
 - [2-way maps]() [[erl]](https://hex.pm/packages/key2value)
 - [Abstract Term database client]() [[erl]](https://github.com/synrc/kvs)
