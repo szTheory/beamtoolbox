@@ -305,7 +305,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [gRPC](https://github.com/tony612/grpc-elixir)
 - [GTIN code validation](https://github.com/kickinespresso/ex_gtin)
 - [Guard clause macros](https://github.com/DevL/guardsafe)
-- [GUI](https://hex.pm/packages/scenic) [[erl]](http://erlang.org/doc/apps/wx/chapter.html)
+- [GUI](https://hex.pm/packages/scenic) [[erl]](https://erlang.org/doc/apps/wx/chapter.html)
 - [HAML parser](https://hex.pm/packages/calliope)
 - [Hardware I/O interfaces for GPIO, I2C, SPI](https://github.com/fhunleth/elixir_ale)
 - [Hash ring pooling](https://github.com/camshaft/pool_ring)
@@ -1039,7 +1039,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Mix task helpers]() [[erl]](https://github.com/alco/mix-erlang-tasks)
 - [Modules string eval]() [[erl]](https://github.com/okeuday/dynamic_compile)
 - [Process buffers]() [[erl]](https://hex.pm/packages/pobox)
-- [Process info]() [[erl]](http://erlang.org/doc/man/etop.html)
+- [Process info]() [[erl]](https://erlang.org/doc/man/etop.html)
 - [Release assembler]() [[erl]](https://github.com/erlware/relx)
 - [Shell history]() [[erl]](https://github.com/ferd/erlang-history)
 - [Term Storage (ETS) table sharding]() [[erl]](https://github.com/cabol/shards)
@@ -1057,7 +1057,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - Category names should become more internally consistent over time
 - Link to Hex package when possible, otherwise to source code page
 - Tag a second alternative with [[2]](https://link-to-runner-up.com)
-- Tag the best Erlang alternative with [[erl]](http://link-to-erlang-lib.com)
+- Tag the best Erlang alternative with [[erl]](https://link-to-erlang-lib.com)
 
 ## Preference Rules
 
