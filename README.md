@@ -1,4 +1,4 @@
-# Elixir Libs
+# ElixirLibs
 
 Curated Elixir libraries by category. All killer, no filler.
 
