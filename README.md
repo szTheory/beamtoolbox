@@ -385,8 +385,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Job queue (Resque/Sidekiq)](https://github.com/akira/exq)
 - [Job queue (transactional)](https://github.com/mbuhot/ecto_job)
 - [JSON Object Signing and Encryption (JOSE)](https://github.com/potatosalad/erlang-jose)
-- [JSON parser/generator](https://github.com/guedes/exjson)
-- [JSON parser/generator](https://github.com/michalmuskala/jason)
+- [JSON parser/generator](https://hex.pm/packages/jason)
 - [JSON streaming encoder](https://github.com/TreyE/json_stream_encoder)
 - [JSON testing](https://github.com/facto/test_that_json)
 - [JSON validation](https://github.com/danmcclain/voorhees)
@@ -1028,7 +1027,7 @@ Lucky for you, we've done the hard work of curating the best available lib for e
 - [Weather (Dark Sky)](https://hex.pm/packages/forecast_io) [[2]](https://github.com/techgaun/darkskyx)
 - [Web analytics (Mixpanel)](https://hex.pm/packages/mexpanel) [[2]](https://github.com/michihuber/mixpanel_ex)
 
-## Erlang-specific
+## Erlang specific
 
 - [2-way maps]() [[erl]](https://hex.pm/packages/key2value)
 - [Abstract Term database client]() [[erl]](https://github.com/synrc/kvs)
