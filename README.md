@@ -76,7 +76,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Blocking queues](https://hex.pm/packages/blocking_queue)
 - [Bloom filters](https://github.com/gmcabrita/bloomex)
 - [BMP file writer](https://github.com/evanfarrar/ex_bump)
-- [Boot an Elixir application, step by step](https://github.com/eraserewind/booter)
+- [Boot an Elixir application, step by step](https://hex.pm/packages/booter)
 - [Brace expansion (sh/bash)](https://github.com/gniquil/ex_brace_expansion)
 - [Brazilian document formatting/validation (CPF/CNPJ)](https://github.com/williamgueiros/Brcpfcnpj)
 - [Browser automation](https://github.com/HashNuke/hound)
