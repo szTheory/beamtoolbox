@@ -72,7 +72,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Bitcask Key/Value store client](https://github.com/JonGretar/ExBitcask)
 - [Bitmaps](https://github.com/hashd/bitmap-elixir)
 - [Bittorrent peer wire protocol encode/decode](https://github.com/alehander42/wire)
-- [Bittorrent tracker requests and responses](https://github.com/alehander42/tracker_request)
+- [Bittorrent tracker request/response](https://hex.pm/packages/tracker_request)
 - [Blocking queues](https://github.com/joekain/BlockingQueue)
 - [Bloom filters](https://github.com/gmcabrita/bloomex)
 - [BMP file writer](https://github.com/evanfarrar/ex_bump)
