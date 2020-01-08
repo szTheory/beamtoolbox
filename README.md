@@ -56,7 +56,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Background jobs (Mnesia)](https://github.com/sheharyarn/que)
 - [Background jobs (RabbitMQ)](https://github.com/shinyscorpion/task_bunny)
 - [Background jobs (Redis)](https://github.com/edgurgel/verk)
-- [Background jobs (PostgreSQL)](https://github.com/sorentwo/oban)
+- [Background jobs (PostgreSQL)](https://hex.pm/packages/oban)
 - [Background jobs](https://github.com/joakimk/toniq)
 - [Barrel-db distributed document database client](https://github.com/jxub/barrel_ex.git)
 - [Base conversion](https://github.com/whatyouhide/convertat) [[2]](https://github.com/igas/custom_base)
