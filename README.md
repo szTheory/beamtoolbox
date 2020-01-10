@@ -1035,6 +1035,11 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Weather (Dark Sky)](https://hex.pm/packages/forecast_io) [[2]](https://github.com/techgaun/darkskyx)
 - [Web analytics (Mixpanel)](https://hex.pm/packages/mexpanel) [[2]](https://github.com/michihuber/mixpanel_ex)
 
+## Tooling
+
+- [Elixir language server](https://github.com/elixir-lsp/elixir-ls)
+- [Visual Studio Code extension](https://github.com/elixir-lsp/vscode-elixir-ls)
+
 ## Erlang Specific
 
 - [2-way maps]() [[erl]](https://hex.pm/packages/key2value)
