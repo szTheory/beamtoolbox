@@ -22,6 +22,8 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Phoenix](#phoenix)
 - [Ecto](#ecto)
 - [API Clients](#api-clients)
+- [Language Integration](#language-integration)
+- [Tooling](#tooling)
 - [Erlang Specific](#erlang-specific)
 
 ## General Libraries
@@ -1038,7 +1040,13 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 ## Tooling
 
 - [Elixir language server](https://github.com/elixir-lsp/elixir-ls)
-- [Visual Studio Code extension](https://github.com/elixir-lsp/vscode-elixir-ls)
+- [Visual Studio Code (Elixir support)](https://github.com/elixir-lsp/vscode-elixir-ls)
+- [Visual Studio Code (Erlang formatter)](https://github.com/szTheory/vscode-elixir-ls)
+- [Visual Studio Code (Hex package info)](https://github.com/szTheory/vsc-hex-lens/)
+
+## Languages Integration
+
+- [Javascript Erlang term encode/decode](https://github.com/inaka/jem.js)
 
 ## Erlang Specific
 
