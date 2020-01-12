@@ -266,6 +266,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Feature/Integration tests](https://hex.pm/packages/wallaby) [[2]](https://hex.pm/packages/hound)
 - [FFmpeg video processing](https://github.com/talklittle/ffmpex)
 - [File downloading from Internet](https://github.com/asiniy/download)
+- [File sizes, human readable](https://hex.pm/packages/sizeable)
 - [File system processes](https://github.com/jtmoulia/spawndir)
 - [File upload and attachment](https://github.com/stavro/arc)
 - [File upload filesystem, SFTP, and S3](https://bitbucket.org/pentacent/belt/)
@@ -787,7 +788,8 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [XLSX files](https://github.com/xou/elixlsx) [[2]](https://github.com/kennellroxco/xlsxir)
 - [XML builder](https://github.com/joshnuss/xml_builder)
 - [XML document parser/generator](https://github.com/willemdj/erlsom) [[2]](https://github.com/qcam/saxy)
-- [XML-RPC encode/decode](https://hex.pm/packages/xmlrpc) [[2]](https://hex.pm/packages/sizeable)
+- [XML-RPC encode/decode](https://hex.pm/packages/xmlrpc)
+- [XML-RPC client](https://hex.pm/packages/xenium) [[2]](https://github.com/0xc14m1z/elixir-xmlrpc-client)
 - [XMPP Client/Bot framework](https://github.com/hedwig-im/hedwig)
 - [YAML parser](https://github.com/processone/fast_yaml) [[2]](https://github.com/d0rc/sweetconfig) [[erl]](https://github.com/yakaz/yamerl)
 
