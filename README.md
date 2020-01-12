@@ -1041,7 +1041,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 
 - [Elixir language server](https://github.com/elixir-lsp/elixir-ls)
 - [Visual Studio Code (Elixir support)](https://github.com/elixir-lsp/vscode-elixir-ls)
-- [Visual Studio Code (Erlang formatter)](https://github.com/szTheory/vscode-elixir-ls)
+- [Visual Studio Code (Erlang formatter)](https://github.com/szTheory/erlang-formatter)
 - [Visual Studio Code (Hex package info)](https://github.com/szTheory/vsc-hex-lens/)
 
 ## Languages Integration
