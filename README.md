@@ -230,7 +230,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Engine.io client](https://github.com/falood/eio)
 - [Entity-Component-System framework with MMORPG server](https://github.com/entice/entice)
 - [Environment variables manager](https://github.com/KamilLelonek/figaro-elixir)
-- [Environment variables with dotenv](https://github.com/avdi/dotenv_elixir)
+- [Environment variables (.env)](https://hex.pm/packages/dotenv) [[2]](https://hex.pm/packages/envy)
 - [EPUB cover extractor](https://github.com/zelazna/epub_cover_extractor)
 - [EPUB generator/parser](https://github.com/milmazz/bupe)
 - [Error handling with result monads](https://github.com/CrowdHailer/OK)
@@ -1044,6 +1044,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Visual Studio Code (Elixir support)](https://github.com/elixir-lsp/vscode-elixir-ls)
 - [Visual Studio Code (Erlang formatter)](https://github.com/szTheory/erlang-formatter)
 - [Visual Studio Code (Hex package info)](https://github.com/szTheory/vsc-hex-lens/)
+- [Visual Studio Code (Test runner, jump to test)](https://github.com/samuelpordeus/vscode-elixir-test)
 
 ## Languages Integration
 
