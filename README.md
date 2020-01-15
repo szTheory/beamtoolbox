@@ -47,7 +47,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Articles extract/curate](https://hex.pm/packages/readability)
 - [ASCII tables](https://hex.pm/packages/table_rex)
 - [ATOM feed builder (RFC4287)](https://hex.pm/packages/atomex)
-- [Authentication (supports non-Plug apps)](https://hex.pm/packages/guardian)
+- [Authentication (non-Plug apps)](https://hex.pm/packages/guardian)
 - [Authorization (rule based)](https://github.com/jfrolich/authorize)
 - [Authorization for Absinthe GraphQL](https://github.com/coryodaniel/speakeasy)
 - [AWS client for Dynamo, Kinesis, Lambda, SQS, and S3](https://github.com/CargoSense/ex_aws)
@@ -268,7 +268,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [File downloading from Internet](https://github.com/asiniy/download)
 - [File sizes, human readable](https://hex.pm/packages/sizeable)
 - [File system processes](https://github.com/jtmoulia/spawndir)
-- [File upload and attachment](https://github.com/stavro/arc)
+- [File upload and attachment](https://hex.pm/packages/arc)
 - [File upload filesystem, SFTP, and S3](https://bitbucket.org/pentacent/belt/)
 - [File upload/processing](https://github.com/doomspork/artifact)
 - [File watcher](https://github.com/ryo33/fwatch-ex) [[2]](https://github.com/whitfin/sentix)
@@ -550,7 +550,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [PostgreSQL hstore support](https://github.com/senecasystems/hstore)
 - [Postmark email templates](https://github.com/KamilLelonek/ex_postmark)
 - [Power assert](https://github.com/ma2gedev/power_assert_ex)
-- [Presenters](https://github.com/Cobenian/Presentex)
+- [Presentation generator](https://hex.pm/packages/presentex)
 - [Pretty print file sizes](https://hex.pm/packages/sizeable)
 - [Pretty print](https://github.com/bjro/apex)
 - [Pretty-print for structs/maps](https://github.com/codedge-llc/scribe)
@@ -858,7 +858,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [API documentation generator](https://hex.pm/packages/blue_bird) [[2]](https://hex.pm/packages/bureaucrat)
 - [API specification (Swagger)](https://github.com/xerions/phoenix_swagger)
 - [Asset pipeline (Webpack)](https://github.com/straw-hat-labs/phoenix_assets_webpack)
-- [Webpack inline assets in Elixir](https://hex.pm/packages/asset_import)
 - [Authentication and user management](https://hex.pm/packages/coherence) [[2]](https://hex.pm/packages/addict)
 - [Authorization](https://hex.pm/packages/bodyguard)
 - [Debug toolbar](https://hex.pm/packages/ex_debug_toolbar)
@@ -884,7 +883,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Query params scopes/filtering](https://hex.pm/packages/filterable)
 - [React.js components](https://hex.pm/packages/react_phoenix)
 - [Reactive UI](https://hex.pm/packages/phoenix_live_view)
-- [UI Components](https://github.com/san650/phoenix_components) [[2]](https://hex.pm/packages/harmonium)
 - [Redis PubSub adapter](https://hex.pm/packages/phoenix_pubsub_redis)
 - [Routes helpers in JavaScript](https://hex.pm/packages/phoenix_routes_js)
 - [Search, sort and paginate](https://hex.pm/packages/rummage_phoenix)
@@ -892,6 +890,9 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Slim templates](https://hex.pm/packages/phoenix_slime)
 - [Specs/Behavior Driven Development (BDD)](https://hex.pm/packages/espec_phoenix)
 - [SSL client authentication](https://hex.pm/packages/phoenix_client_ssl)
+- [Twitter Bootstrap helpers](https://hex.pm/packages/bh)
+- [UI Components](https://github.com/san650/phoenix_components) [[2]](https://hex.pm/packages/harmonium)
+- [Webpack inline assets in Elixir](https://hex.pm/packages/asset_import)
 
 ## Ecto
 
@@ -1042,7 +1043,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 
 - [Elixir language server](https://github.com/elixir-lsp/elixir-ls)
 - [Visual Studio Code (Elixir support)](https://github.com/elixir-lsp/vscode-elixir-ls)
-- [Visual Studio Code (Erlang formatter)](https://github.com/szTheory/erlang-formatter)
+- [Visual Studio Code (Erlang formatter)](https://github.com/szTheory/vsc-erlang-formatter)
 - [Visual Studio Code (Hex package info)](https://github.com/szTheory/vsc-hex-lens/)
 - [Visual Studio Code (Test runner, jump to test)](https://github.com/samuelpordeus/vscode-elixir-test)
 
