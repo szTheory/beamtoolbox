@@ -1099,6 +1099,7 @@ All else being equal:
 - Prefer the better tested version
 - Prefer the faster solution
 - Prefer the more mature solution
+- Prefer the Erlang version to a thin Elixir wrapper (less dependencies)
 
 ## Contributing
 
