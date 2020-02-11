@@ -538,6 +538,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Performance and debugging tools](https://github.com/massemanet/eper)
 - [Philips Hue connected light bulbs client](https://github.com/xavier/huex)
 - [Phone numbers](https://github.com/socialpaymentsbv/ex_phone_number)
+- [PID file for UNIX](https://hex.pm/packages/pid_file)
 - [Pipe operator composition](https://github.com/batate/elixir-pipes)
 - [Pipe operator pattern matching](https://github.com/mgwidmann/elixir-pattern_tap)
 - [Pipe operator positioning](https://github.com/vic/pipe_here) [[2]](https://github.com/taiansu/pipe_to)
@@ -579,7 +580,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Queue (in-memory, worker pooling, rate limiting)](https://github.com/fredwu/opq)
 - [RabbitMQ client](https://github.com/d0rc/exrabbit) [[2]](https://github.com/synrc/mqs)
 - [RabbitMQ client](https://github.com/pma/amqp)
-- [RabbitMQ producers/consumers](https://github.com/Nebo15/rbmq) [[2]](https://github.com/meltwater/gen_rmq)
+- [RabbitMQ producers/consumers](https://hex.pm/packages/gen_rmq) [[2]](https://hex.pm/packages/rbmq)
 - [RADIUS Protocol](https://github.com/bearice/elixir-radius)
 - [Random Base64 strings generator](https://github.com/patricksrobertson/secure_random.ex)
 - [Random Number Generation (RNG)](https://github.com/okeuday/quickrand)
@@ -802,6 +803,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [XML-RPC encode/decode](https://hex.pm/packages/xmlrpc)
 - [XMPP Client/Bot framework](https://github.com/hedwig-im/hedwig)
 - [YAML parser](https://github.com/processone/fast_yaml) [[2]](https://github.com/d0rc/sweetconfig) [[erl]](https://github.com/yakaz/yamerl)
+- [Zip file streaming](https://hex.pm/packages/packmatic)
 
 ## Plug
 
@@ -883,7 +885,8 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [HTML sanitizer](https://hex.pm/packages/phoenix_html_sanitizer)
 - [Instrumentation (Prometheus)](https://hex.pm/packages/prometheus_phoenix)
 - [Integration test selectors](https://hex.pm/packages/test_selector)
-- [Internationalization (i18n)](https://hexdocs.pm/gettext/Gettext.html) [[2]](https://hex.pm/packages/phoenix_linguist)
+- [Translation/Internationalization (i18n)](https://hexdocs.pm/gettext/Gettext.html) [[2]](https://hex.pm/packages/phoenix_linguist)
+- [Translation/Internationalization (i18n), embedded within schema](https://hex.pm/packages/trans)
 - [JavaScript env variables](https://hex.pm/packages/phoenix_gon)
 - [Live-reload](https://hex.pm/packages/phoenix_live_reload)
 - [Meta tags](https://hex.pm/packages/phoenix_meta_tags)
@@ -963,6 +966,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [App store, reviews (AppStore/Play)](https://github.com/KazuCocoa/simple_app_reporter_ex)
 - [Application Performance Manager (APM) (Elastic APM)](https://hex.pm/packages/opbeat)
 - [Application stack (Parse.com)](https://hex.pm/packages/parse_client) [[2]](https://hex.pm/packages/parsex)
+- [Auth0 JSON Web Key Set (JWKS)](https://hex.pm/packages/auth0_jwks)
 - [Avatars (Gravatar)](https://hex.pm/packages/exgravatar)
 - [Avatars for design mockups (UIFaces)](https://hex.pm/packages/ui_faces)
 - [Business process automation (Force.com)](https://hex.pm/packages/forcex)
@@ -1056,6 +1060,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 ## Tooling
 
 - [Elixir language server](https://github.com/elixir-lsp/elixir-ls)
+- [IntelliJ Elixir plugin](https://github.com/KronicDeth/intellij-elixir)
 - [Visual Studio Code (eex template formatter)](https://marketplace.visualstudio.com/items?itemName=zerokol.vscode-eex-beautify)
 - [Visual Studio Code (Elixir linter with Credo)](https://marketplace.visualstudio.com/items?itemName=iampeterbanjo.elixirlinter)
 - [Visual Studio Code (Elixir support)](https://github.com/elixir-lsp/vscode-elixir-ls)
@@ -1107,8 +1112,9 @@ All else being equal:
 
 - Prefer stdlib to a third party package
 - Prefer the better tested version
-- Prefer the faster solution
-- Prefer the more mature solution
+- Prefer the faster library
+- Prefer the more mature library
+- Prefer the library with less dependencies
 - Prefer the Erlang version to a thin Elixir wrapper (less dependencies)
 
 ## Contributing
