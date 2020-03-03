@@ -23,6 +23,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Ecto](#ecto)
 - [API Clients](#api-clients)
 - [Language Integration](#language-integration)
+- [Nerves](#nerves)
 - [Tooling](#tooling)
 - [Erlang Specific](#erlang-specific)
 
@@ -226,9 +227,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Email inline styles and plaintext version](https://github.com/jfrolich/smoothie)
 - [Email send and receive](https://hex.pm/packages/mailroom)
 - [Email support for dkim, spf, dmark, mimemail, smtp](https://github.com/awetzel/mailibex)
-- [Embedded firmware updates](https://hex.pm/packages/nerves_hub)
 - [Embedded programming for ESP32/STM32 microcontrollers](https://github.com/bettio/AtomVM)
-- [Embedded software framework](https://hex.pm/packages/nerves)
 - [Emoji encoding](https://github.com/mroth/exmoji)
 - [Emoji text sanitizer](https://github.com/guanting112/elixir_remove_emoji)
 - [Encryption (Mix)](https://hex.pm/packages/encrypt)
@@ -283,7 +282,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Finite state machine](https://github.com/sasa1977/fsm) [[2]](https://github.com/pavlos/gen_fsm)
 - [Firebase Cloud Messages client](https://github.com/Hajto/ExFCM)
 - [Firmata protocol](https://github.com/entone/firmata)
-- [Firmware framework](https://github.com/nerves-project/nerves)
 - [Flame Graph profiler](https://github.com/proger/eflame)
 - [Fleet (CoreOS) API wrapper](https://github.com/jordan0day/fleet-api)
 - [Flow processing](https://github.com/dalmatinerdb/dflow)
@@ -796,16 +794,15 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Word stemming](https://github.com/frpaulas/porterstemmer) [[2]](https://github.com/fredwu/stemmer)
 - [Worker pool and job queue](https://hex.pm/packages/honeydew)
 - [Worker pool factory]() [[erl]](https://hex.pm/packages/poolboy)
-- [WPA client](https://github.com/fhunleth/wpa_supplicant.ex)
-- [WSDL/SOAP client](https://github.com/r-icarus/detergentex)
+- [WSDL/SOAP client](https://hex.pm/packages/detergentex)
 - [X.509 certificates and Certificate Signing Requests (CSRs)](https://hex.pm/packages/x509)
-- [XLSX files](https://github.com/xou/elixlsx) [[2]](https://github.com/kennellroxco/xlsxir)
-- [XML builder](https://github.com/joshnuss/xml_builder)
-- [XML document parser/generator](https://github.com/willemdj/erlsom) [[2]](https://github.com/qcam/saxy)
+- [XLSX files](https://hex.pm/packages/elixlsx) [[2]](https://hex.pm/packages/xlsxir)
+- [XML builder](https://hex.pm/packages/xml_builder)
+- [XML document parser/generator](https://hex.pm/packages/saxy) [[erl]](https://hex.pm/packages/erlsom)
 - [XML-RPC client](https://hex.pm/packages/xenium) [[2]](https://github.com/0xc14m1z/elixir-xmlrpc-client)
 - [XML-RPC encode/decode](https://hex.pm/packages/xmlrpc)
-- [XMPP Client/Bot framework](https://github.com/hedwig-im/hedwig)
-- [YAML parser](https://github.com/processone/fast_yaml) [[2]](https://github.com/d0rc/sweetconfig) [[erl]](https://github.com/yakaz/yamerl)
+- [XMPP Client/Bot framework](https://hex.pm/packages/hedwig)
+- [YAML parser]() [[erl]](https://hex.pm/packages/fast_yaml) [[erl2]](https://hex.pm/packages/yamerl)
 - [Zip file streaming](https://hex.pm/packages/packmatic)
 
 ## Plug
@@ -980,7 +977,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Cloud database (Google Cloud Datastore)](https://hex.pm/packages/diplomat)
 - [Cloud provider (Digital Ocean)](https://hex.pm/packages/doex) [[2]](https://hex.pm/packages/digoc)
 - [Cloud provider (Qiniu)](https://hex.pm/packages/qiniu)
-- [Cloud provider (Vultr) Nerves adapter](https://hex.pm/packages/nerves_system_vultr)
 - [Cloud provider (Vultr)](https://hex.pm/packages/vultr)
 - [Cloud provider, managed (Heroku)](https://hex.pm/packages/heroku_scripts) [[2]](https://hex.pm/packages/hexoku)
 - [Cloud pub/sub (Google Cloud Pub/Sub)](https://hex.pm/packages/kane)
@@ -1077,6 +1073,14 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Visual Studio Code (Erlang formatter)](https://github.com/szTheory/vsc-erlang-formatter)
 - [Visual Studio Code (Hex package info)](https://github.com/szTheory/vsc-hex-lens/)
 - [Visual Studio Code (Test runner, jump to test)](https://github.com/samuelpordeus/vscode-elixir-test)
+
+## Nerves
+
+- [Cloud provider (Vultr) Nerves adapter](https://hex.pm/packages/nerves_system_vultr)
+- [Embedded firmware updates](https://hex.pm/packages/nerves_hub)
+- [Embedded software framework](https://hex.pm/packages/nerves)
+- [Firmware framework](https://github.com/nerves-project/nerves)
+- [WPA client](https://hex.pm/packages/nerves_wpa_supplicant)
 
 ## Languages Integration
 
