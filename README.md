@@ -887,6 +887,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Cloud provider, managed (Heroku)](https://hex.pm/packages/heroku_scripts) [[2]](https://hex.pm/packages/hexoku)
 - [Cloud pub/sub (Google Cloud Pub/Sub)](https://hex.pm/packages/kane)
 - [Cloud software (Google Spreadsheet)](https://hex.pm/packages/google_sheets)
+- [Cluster automatic formation/healing (Amazon EC2)](https://hex.pm/packages/libcluster_ec2)
 - [Continuous integration (Codeship)](https://hex.pm/packages/ex_codeship)
 - [Cryptocurrency (BitMEX)](https://hex.pm/packages/bitmex)
 - [Cryptocurrency (Bitpay)](https://hex.pm/packages/bitpay)
