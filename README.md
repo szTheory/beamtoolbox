@@ -418,6 +418,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Monads](https://hex.pm/packages/witchcraft) [[2]](https://hex.pm/packages/monad)
 - [Money handling/storing](https://hex.pm/packages/money) [[2]](https://hex.pm/packages/monetized)
 - [MongoDB database driver](https://hex.pm/packages/mongodb) [[2]](https://hex.pm/packages/mongo)
+- [MP4 file parser](https://hex.pm/packages/perseus)
 - [MQTT brokers (MQTT 3.1.1 protocol)](https://hex.pm/packages/hulaaki)
 - [MT940/MT942 parser (SWIFT Customer Statements)](https://hex.pm/packages/mt940)
 - [Multiple function head definitions](https://hex.pm/packages/multidef)
