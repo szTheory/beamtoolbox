@@ -1,17 +1,18 @@
-# ElixirToolbox
+# BEAM Toolbox
 
-Curated Elixir libraries by category. All killer, no filler.
+Curated BEAM language libraries by category. All killer, no filler.
 
 ## About
 
 The BEAM ecosystem is vast and hard to navigate. For any task you must evaluate options for:
 
-- Elixir stdlib
 - Erlang stdlib (OTP)
-- Hex packages (Elixir)
+- Elixir stdlib
 - Rebar packages (Erlang)
+- Hex packages (Elixir)
+- Rebar packages (other languages like Gleam)
 
-Lucky for you, we've done the hard work of curating the best available libs for each problem class. [Disagree with our choices?](https://github.com/szTheory/elixir-bestlib/pulls)
+Lucky for you, we've done the hard work of curating the best available libs for each problem class. [Disagree with our choices?](https://github.com/szTheory/beamtoolbox/pulls)
 
 > The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer. –author unknown
 
@@ -1074,8 +1075,9 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Short category name with URL to lib
 - Category names should become more internally consistent over time
 - Link to Hex package when possible, otherwise to source code page
-- Tag a second alternative with [[ex]](https://link-to-runner-up.com)
-- Tag the best Erlang alternative with [[erl]](https://link-to-erlang-lib.com)
+- Tag Elixir options with [[ex]](https://link-to-runner-up.com)
+- Tag Erlang options with [[erl]](https://link-to-erlang-lib.com)
+- Put entries in subjective order of curated preference
 
 ## Preference Rules
 
