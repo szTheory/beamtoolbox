@@ -149,7 +149,8 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Cross-app HMAC authentication (MojoAuth) [[ex]](https://hex.pm/packages/mojoauth)
 - Crypto AES CMAC algorithm [[ex]](https://hex.pm/packages/aescmac)
 - Cryptocurrency blockchain algorithms [[ex]](https://hex.pm/packages/caustic)
-- CSV [[ex]](https://hex.pm/packages/csv) [[ex]](https://hex.pm/packages/cesso)
+- CSV encode/decode [[ex]](https://hex.pm/packages/csv) [[ex]](https://hex.pm/packages/cesso)
+- CSV file generation [[ex]](https://hex.pm/packages/csv_generator)
 - Cuckoo filters [[ex]](https://hex.pm/packages/cuckoo)
 - CUI character decorator [[ex]](https://hex.pm/packages/colorful)
 - Currency conversion [[ex]](https://hex.pm/packages/xe)
@@ -860,6 +861,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Timex support [[ex]](https://hex.pm/packages/timex_ecto)
 - Validation test helpers [[ex]](https://hex.pm/packages/ecto_validation_case)
 - Versioning [[ex]](https://hex.pm/packages/paper_trail)
+- Videogame Artificial Intelligence (AI) [[ex]](https://hex.pm/packages/alex)
 
 ## API Clients
 
