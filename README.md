@@ -1004,10 +1004,10 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Test auto run on file change [[ex]](https://github.com/joaothallis/elixir-auto-test)
 - Visual Studio Code (eex template formatter) [[ex]](https://marketplace.visualstudio.com/items?itemName=zerokol.vscode-eex-beautify)
 - Visual Studio Code (Elixir linter with Credo) [[ex]](https://marketplace.visualstudio.com/items?itemName=iampeterbanjo.elixirlinter)
-- Visual Studio Code (Elixir support) [[ex]](https://github.com/elixir-lsp/vscode-elixir-ls)
-- Visual Studio Code (Erlang formatter) [[ex]](https://github.com/szTheory/vsc-erlang-formatter)
-- Visual Studio Code (Hex package info) [[ex]](https://github.com/szTheory/vsc-hex-lens/)
-- Visual Studio Code (Test runner, jump to test) [[ex]](https://github.com/samuelpordeus/vscode-elixir-test)
+- Visual Studio Code (Elixir support) [[ex]](https://marketplace.visualstudio.com/items?itemName=elixir-lsp.elixir-ls)
+- Visual Studio Code (Erlang formatter) [[ex]](https://marketplace.visualstudio.com/items?itemName=szTheory.erlang-formatter)
+- Visual Studio Code (Hex package info) [[ex]](https://marketplace.visualstudio.com/items?itemName=szTheory.hex-lens)
+- Visual Studio Code (Test runner, jump to test) [[ex]](https://marketplace.visualstudio.com/items?itemName=samuel-pordeus.elixir-test)
 
 ## Erlang Specific
 
