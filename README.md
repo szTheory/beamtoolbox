@@ -355,7 +355,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - JSON parser/generator [[ex]](https://hex.pm/packages/jason) [[erl]](https://hex.pm/packages/jsx)
 - JSON testing helpers [[ex]](https://hex.pm/packages/test_that_json)
 - JSON validation [[ex]](https://github.com/danmcclain/voorhees)
-- JSON value identifier (RFC 6901)](json_pointer)
+- JSON value identifier (RFC 6901) [[ex]](json_pointer)
 - JSON Web Tokens (JWT) (RFC 7519) [[ex]](https://hex.pm/packages/joken) [[ex]](https://hex.pm/packages/json_web_token)
 - JSON:API documents [[ex]](https://hex.pm/packages/jsonapi)
 - JSONAPI.org Serialization [[ex]](https://hex.pm/packages/ja_serializer)
