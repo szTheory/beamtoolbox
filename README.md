@@ -551,7 +551,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Rollbar exception tracking client [[ex]](https://hex.pm/packages/rollbax)
 - RSA keys [[ex]](https://hex.pm/packages/rsa_ex)
 - RSASSA-PSS crypto algorithm [[erl]](https://hex.pm/packages/crypto_rsassa_pss)
-- RSS feeds [[ex]](https://hex.pm/packages/fast_rss) [[1]](https://hex.pm/packages/feeder_ex)
+- RSS feeds [[ex]](https://hex.pm/packages/fast_rss) [[ex]](https://hex.pm/packages/feeder_ex)
 - RSS/Atom feeds [[ex]](https://hex.pm/packages/feedme) [[erl]]((https://hex.pm/packages/feeder))
 - Run command on file system change [[ex]](https://hex.pm/packages/eye_drops)
 - Russian names inflection [[ex]](https://hex.pm/packages/petrovich_elixir)
@@ -1077,6 +1077,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Link to Hex package when possible, otherwise to source code page
 - Tag Elixir options with [[ex]](https://link-to-runner-up.com)
 - Tag Erlang options with [[erl]](https://link-to-erlang-lib.com)
+- Tag Gleam options with [[glm]](https://link-to-gleam-lib.com)
 - Put entries in subjective order of curated preference
 
 ## Preference Rules
