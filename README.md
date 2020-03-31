@@ -274,7 +274,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Git hooks [[ex]](https://hex.pm/packages/git_hooks)
 - Git object storage [[ex]](https://hex.pm/packages/gitex)
 - Globals, fast/no-copy [[ex]](https://hex.pm/packages/fastglobal)
-- Globbing paths without walking the tree!](https://hex.pm/packages/ex_minimatch)
+- Globbing paths without walking the tree! [[ex]](https://hex.pm/packages/ex_minimatch)
 - Googles Level data store client [[ex]](https://hex.pm/packages/level)
 - GPG encryption [[ex]](https://hex.pm/packages/exgpg)
 - Graph data structure [[ex]](https://hex.pm/packages/libgraph)
