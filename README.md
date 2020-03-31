@@ -377,7 +377,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Licensing enumeration for project dependencies [[ex]](https://hex.pm/packages/licensir)
 - Line numbers parse transform [[ex]](https://hex.pm/packages/lineo)
 - Line segment intersection calculator [[ex]](https://hex.pm/packages/seg_seg)
-- Load generator [[erll]](https://github.com/klarna/ponos)
+- Load generator [[erl]](https://github.com/klarna/ponos)
 - Logfmt encoding/decoding [[ex]](https://hex.pm/packages/logfmt)
 - Logger for Graylog Extended Log Format (GELF) [[ex]](https://hex.pm/packages/gelf_logger) [[ex]](https://hex.pm/packages/gelfx)
 - Logger integration with RabbitMQ [[ex]](https://hex.pm/packages/rogger)
