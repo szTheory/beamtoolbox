@@ -1079,6 +1079,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Tag Erlang options with [[erl]](https://link-to-erlang-lib.com)
 - Tag Gleam options with [[glm]](https://link-to-gleam-lib.com)
 - Put entries in subjective order of curated preference
+- Keep entries by language together, first is [[ex]](), then [[erl]](), then [[glm]]().
 
 ## Preference Rules
 
