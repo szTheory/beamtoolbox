@@ -594,7 +594,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - SSH tasks runner [[ex]](https://hex.pm/packages/sshkit)
 - SSL certificates, CA bundle [[erl]](https://hex.pm/packages/certifi)
 - SSL verification [[erl]](https://hex.pm/packages/ssl_verify_fun)
-- Standard Library [[ex]](https://hexdocs.pm/elixir/Kernel.html) [[erl]](http://erlang.org/doc/apps/stdlib/index.html)
+- Standard Library [[ex]](https://hexdocs.pm/elixir/Kernel.html) [[erl]](https://erlang.org/doc/apps/stdlib/index.html)
 - State machines, distributed (Raft consensus protocol) [[ex]](https://hex.pm/packages/raft) [[erl]](https://github.com/shantiii/raft_erl)
 - Static code analysis/Linter [[ex]](https://hex.pm/packages/credo)
 - Static site generator, blog engine [[ex]](https://hex.pm/packages/blogit)
