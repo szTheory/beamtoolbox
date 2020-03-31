@@ -183,7 +183,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Directory traversal [[ex]](https://hex.pm/packages/dir_walker)
 - Distributed in-memory Caching with pub/sub [[erl]](https://hex.pm/packages/jc)
 - Document driven development (Swagger) [[ex]](https://hex.pm/packages/apocryphal)
-- Documentation badges for README [[ex]](https://inch-ci.org/)
 - Documentation coverage reports [[ex]](https://hex.pm/packages/doctor)
 - Documentation generation [[ex]](https://hex.pm/packages/ex_doc)
 - Domain modelling [[ex]](https://hex.pm/packages/eventsourced)
