@@ -646,6 +646,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Tor client [[ex]](https://hex.pm/packages/torex)
 - Tracing and debugging [[ex]](https://hex.pm/packages/exrun) [[ex]](https://hex.pm/packages/dbg) [[erl]](https://hex.pm/packages/recon) [[erl]](https://hex.pm/packages/redbug)
 - Tracing with Datadog APM compatibility [[ex]](https://hex.pm/packages/spandex)
+- Transactions, distributed [[ex]](https://hex.pm/packages/sage)
 - Translation models with PostgreSQL JSONB [[ex]](https://hex.pm/packages/trans)
 - Translation of Gettext locales (Google Translate) [[ex]](https://hex.pm/packages/getatrex)
 - Trie Implementation [[erl]](https://hex.pm/packages/trie)
