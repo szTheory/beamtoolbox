@@ -2,6 +2,11 @@
 
 Curated BEAM language libraries by category. All killer, no filler.
 
+## Websites
+
+* [ElixirToolbox](https://elixirtoolbox.dev)
+* [ErlangToolbox](https://erlangtoolbox.com) (coming soon)
+
 ## About
 
 The BEAM ecosystem is vast and hard to navigate. For any task you must evaluate options for:
