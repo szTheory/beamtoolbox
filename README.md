@@ -306,7 +306,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - HTML parser and query [[ex]](https://hex.pm/packages/floki) [[ex]](https://hex.pm/packages/meeseeks)
 - HTML sanitizer [[ex]](https://hex.pm/packages/html_sanitize_ex)
 - HTML tag-safe string truncation [[ex]](https://hex.pm/packages/curtail)
-- HTML to PDF conversion [[ex]](https://hex.pm/packages/pdf_generator)
+- HTML to PDF conversion [[ex]](https://hex.pm/packages/pdf_generator) [[ex]](https://hex.pm/packages/puppeteer_pdf) [[ex]](https://hex.pm/packages/chromic_pdf)
 - HTML/XML query with CSS/XPath [[ex]](https://hex.pm/packages/meeseeks) [[ex]](https://hex.pm/packages/sweet_xml)
 - HTTP basic authentication [[ex]](https://hex.pm/packages/basic_auth)
 - HTTP client [[ex]](https://hex.pm/packages/tesla) [[ex]](https://hex.pm/packages/mint) [[ex]](https://hex.pm/packages/httpoison) [[erl]](https://hex.pm/packages/hackney)
