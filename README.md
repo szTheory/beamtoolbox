@@ -1010,16 +1010,21 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 
 ## Tooling
 
+- Atom support for Elixir [[ex]](https://github.com/elixir-editors/language-elixir)
 - BEAM process visualizer, command line [[erl]](https://hex.pm/packages/observer_cli)
 - BEAM process visualizer, GUI [[ex]](https://github.com/koudelka/visualixir)
 - Documentation command-line interface [[ex]](https://hex.pm/packages/eh)
+- Elixir language server [[ex]](https://github.com/elixir-lsp/)
 - Elixir language server [[ex]](https://github.com/elixir-lsp/elixir-ls)
 - Elixir project templates [[ex]](https://github.com/rwdaigle/exgen)
+- Emacs mode for Elixir [[ex]](https://github.com/elixir-editors/emacs-elixir)
 - Erlang refactoring tools [[erl]](https://github.com/RefactoringTools/Wrangler)
 - Heroku buildpack for Elixir [[ex]](https://github.com/HashNuke/heroku-buildpack-elixir)
 - Hex package dependency plotting [[ex]](https://hex.pm/packages/mixgraph)
 - IntelliJ Elixir plugin [[ex]](https://github.com/KronicDeth/intellij-elixir)
 - Test auto run on file change [[ex]](https://github.com/joaothallis/elixir-auto-test)
+- TextMate/Sublime Text bundle for Elixir [[ex]](https://github.com/elixir-editors/elixir-tmbundle)
+- Vim Elixir configuration [[ex]](https://github.com/elixir-editors/vim-elixir)
 - Visual Studio Code (eex template formatter) [[ex]](https://marketplace.visualstudio.com/items?itemName=zerokol.vscode-eex-beautify)
 - Visual Studio Code (Elixir linter with Credo) [[ex]](https://marketplace.visualstudio.com/items?itemName=iampeterbanjo.elixirlinter)
 - Visual Studio Code (Elixir support) [[ex]](https://marketplace.visualstudio.com/items?itemName=elixir-lsp.elixir-ls)
