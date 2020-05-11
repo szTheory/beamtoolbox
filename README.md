@@ -4,8 +4,8 @@ Curated BEAM language libraries by category. All killer, no filler.
 
 ## Websites
 
-* [ElixirToolbox.dev](https://elixirtoolbox.dev)
-* [ErlangToolbox.com](https://erlangtoolbox.com) (coming soon)
+- [ElixirToolbox.dev](https://elixirtoolbox.dev)
+- [ErlangToolbox.com](https://erlangtoolbox.com) (coming soon)
 
 ## About
 
@@ -38,7 +38,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 ## General Libraries
 
 - 2D/3D math [[ex]](https://hex.pm/packages/graphmath)
-- A* pathfinding algorithm [[ex]](https://hex.pm/packages/eastar)
+- A\* pathfinding algorithm [[ex]](https://hex.pm/packages/eastar)
 - ABNF grammar parser [[ex]](https://hex.pm/packages/ex_abnf)
 - Address parsing (US) [[ex]](https://hex.pm/packages/address_us)
 - Anaphora macros [[ex]](https://hex.pm/packages/anaphora)
@@ -161,7 +161,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - CUI character decorator [[ex]](https://hex.pm/packages/colorful)
 - Currency conversion [[ex]](https://hex.pm/packages/xe)
 - DalmatinerDB client [[erl]](https://hex.pm/packages/ddb_client)
-- DalmatinerDB protocols [[erl]](https://hex.pm/packages/dproto) 
+- DalmatinerDB protocols [[erl]](https://hex.pm/packages/dproto)
 - DalmatinerDB query engine [[erl]](https://hex.pm/packages/dqe)
 - Dashboards [[ex]](https://hex.pm/packages/kitto)
 - Data generation framework [[ex]](https://hex.pm/packages/blacksmith)
@@ -414,7 +414,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Metrics system interfaces [[ex]](https://hex.pm/packages/metrics)
 - Metrics/monitoring/observer, web-based [[ex]](https://hex.pm/packages/wobserver)
 - Milliseconds support [[ex]](https://hex.pm/packages/milliseconds)
-- Mime type parsing [[erl]](https://hex.pm/packages/mimerl) [[erl]](https://hex.pm/packages/mimetype_parser) 
+- Mime type parsing [[erl]](https://hex.pm/packages/mimerl) [[erl]](https://hex.pm/packages/mimetype_parser)
 - Mix auto recompile code on file change [[ex]](https://hex.pm/packages/remix)
 - Mnesia database client [[ex]](https://hex.pm/packages/memento) [[ex]](https://hex.pm/packages/amnesia)
 - Mobile optimized silent video conversion [[ex]](https://hex.pm/packages/silent_video)
@@ -558,7 +558,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - RSA keys [[ex]](https://hex.pm/packages/rsa_ex)
 - RSASSA-PSS crypto algorithm [[erl]](https://hex.pm/packages/crypto_rsassa_pss)
 - RSS feeds [[ex]](https://hex.pm/packages/fast_rss) [[ex]](https://hex.pm/packages/feeder_ex)
-- RSS/Atom feeds [[ex]](https://hex.pm/packages/feedme) [[erl]]((https://hex.pm/packages/feeder))
+- RSS/Atom feeds [[ex]](https://hex.pm/packages/feedme) [[erl]](<(https://hex.pm/packages/feeder)>)
 - Run command on file system change [[ex]](https://hex.pm/packages/eye_drops)
 - Russian names inflection [[ex]](https://hex.pm/packages/petrovich_elixir)
 - Saga development [[ex]](https://gitlab.com/cizen/cizen)
