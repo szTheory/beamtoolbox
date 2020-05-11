@@ -235,6 +235,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Eventstore CQRS event store client [[ex]](https://hex.pm/packages/extreme)
 - EXIF metadata [[ex]](https://hex.pm/packages/exif_parser) [[ex]](https://hex.pm/packages/elixir_exif) [[ex]](https://hex.pm/packages/exexif)
 - Exponential backoff, linear retry, wait [[ex]](https://hex.pm/packages/retry)
+- ExUnit assertions [[ex]](https://hex.pm/packages/assertions)
 - ExUnit expression result output (Power assert) [[ex]](https://hex.pm/packages/power_assert)
 - ExUnit test desktop notifications [[ex]](https://hex.pm/packages/ex_unit_notifier)
 - ExUnit test runner [[ex]](https://hex.pm/packages/kovacs)
@@ -516,7 +517,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Query string encoding [[ex]](https://hex.pm/packages/uri_query)
 - Queue (in-memory, worker pooling, rate limiting) [[ex]](https://hex.pm/packages/opq)
 - Queue pooling (Sojourn-time) [[erl]](https://hex.pm/packages/sbroker)
-- RabbitMQ client [[ex]](https://hex.pm/packages/amqp) [[erl]](https://github.com/synrc/mqs)
+- RabbitMQ client [[ex]](https://hex.pm/packages/amqp) [[ex]](https://hex.pm/packages/rabbit_mq) [[erl]](https://github.com/synrc/mqs)
 - RabbitMQ producers/consumers [[ex]](https://hex.pm/packages/gen_rmq) [[ex]](https://hex.pm/packages/rbmq)
 - RADIUS Protocol [[ex]](https://hex.pm/packages/elixir_radius)
 - Random Base64 strings generator [[ex]](https://hex.pm/packages/secure_random)
@@ -1108,7 +1109,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Tag Erlang options with [[erl]](https://link-to-erlang-lib.com)
 - Tag Gleam options with [[glm]](https://link-to-gleam-lib.com)
 - Put entries in subjective order of curated preference
-- Keep entries by language together, first is [[ex]](), then [[erl]](), then [[glm]]().
+- Keep entries by language together, first is [[ex]](https://example-elixir-link.com), then [[erl]](https://example-erlang-link.com), then [[glm]](https://example-gleam-link.com).
 
 ## Preference Rules
 
