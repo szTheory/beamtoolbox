@@ -57,6 +57,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Authentication, Multi-provider/OAuth2 [[ex]](https://hex.pm/packages/assent)
 - Authentication, can work without Plug [[ex]](https://hex.pm/packages/guardian)
 - Authorization for Absinthe GraphQL [[ex]](https://hex.pm/packages/speakeasy)
+- Authorization, attribute based [[ex]](https://hex.pm/packages/terminator)
 - Authorization, rule based [[ex]](https://hex.pm/packages/authorize)
 - AWS Signature V4 [[ex]](https://hex.pm/packages/sigaws) [[ex]](https://hex.pm/packages/aws_auth)
 - Background jobs queue (Disque) [[ex]](https://hex.pm/packages/exdisque)
