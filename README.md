@@ -233,7 +233,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - ETS match specifications from Elixir functions [[ex]](https://hex.pm/packages/ex2ms)
 - ETS matcher helpers [[ex]](https://hex.pm/packages/ex2ms)
 - ETS matching (LINQ) [[ex]](https://hex.pm/packages/exquisite)
-- ETS table persistence [[ex]](https://hex.pm/packages/eternal)
+- ETS table persistence [[ex]](https://hex.pm/packages/persistent_ets) [[ex]](https://hex.pm/packages/eternal)
 - EUnit tests Mix task helper [[ex]](https://hex.pm/packages/mix_eunit)
 - Event bus [[ex]](https://hex.pm/packages/event_bus)
 - Event processing and monitoring [[erl]](https://hex.pm/packages/goldrush)
