@@ -260,9 +260,9 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - File upload filesystem, SFTP, and S3 [[ex]](https://bitbucket.org/pentacent/belt/)
 - File watcher [[ex]](https://hex.pm/packages/fwatch) [[ex]](https://hex.pm/packages/sentix)
 - Filename sanitization [[ex]](https://hex.pm/packages/zarex)
-- Finie State Machine (FSM) [[ex]](https://hex.pm/packages/machinery)
-- Finite state machine (FSM), gen_fsm [[ex]](https://hex.pm/packages/gen_fsm)
+- Finite State Machine (FSM) [[ex]](https://hex.pm/packages/machinery) [[ex]](https://hex.pm/packages/gen_fsm)
 - Finite State Machine (FSM), static [[ex]](https://hex.pm/packages/exfsm)
+- Finite State Machine (FSM), Ecto integration [[ex]](https://hex.pm/packages/fsmx)
 - Firmata protocol [[ex]](https://hex.pm/packages/firmata)
 - Flame graph profiler [[ex]](https://hex.pm/packages/eflame)
 - Flow processing (DalmatinerDB) [[ex]](https://hex.pm/packages/dflow)
@@ -790,6 +790,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 ## Phoenix
 
 - Absinthe CRUD [[ex]](https://hex.pm/packages/crudry)
+- Admin interface [[ex]](https://hex.pm/packages/kaffy)
 - Admin interface for Ecto schemas [[ex]](https://hex.pm/packages/adminable)
 - Admin interface scaffolds [[ex]](https://hex.pm/packages/torch)
 - API Authentication [[ex]](https://hex.pm/packages/access_pass)
@@ -880,6 +881,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - ShortUUID [[ex]](https://hex.pm/packages/ecto_shortuuid)
 - Slugs [[ex]](https://hex.pm/packages/ecto_autoslug_field)
 - SQLite3 adapter [[ex]](https://hex.pm/packages/sqlite_ecto)
+- Tenancy [[ex]](https://hex.pm/packages/ecto_tenancy_enforcer)
 - Test fixtures/factories [[ex]](https://hex.pm/packages/ex_machina)
 - Time period stats [[ex]](https://hex.pm/packages/simplestatex)
 - Timex support [[ex]](https://hex.pm/packages/timex_ecto)
