@@ -1109,6 +1109,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - NIF (Nim) [[erl]](https://github.com/wltsmrz/nimler)
 - NIF (Rust) [[ex]](https://hex.pm/packages/rustler)
 - NIF (SQLite) [[ex]](https://hex.pm/packages/esqlite)
+- NIF (WASM) [[ex]](https://hex.pm/packages/wasmex)
 - NIF (Zig) [[ex]](https://github.com/ityonemo/zigler)
 - NIF boilerplate [[ex]](https://hex.pm/packages/nifty)
 - Node.js function calls [[ex]](https://hex.pm/packages/nodejs)
@@ -1135,10 +1136,10 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 All else being equal:
 
 - Prefer stdlib to a third party package
-- Prefer the better tested version
-- Prefer the faster library
 - Prefer the more mature library
 - Prefer the library with less dependencies
+- Prefer the better tested version
+- Prefer the faster library
 - Prefer the Erlang version to a thin Elixir wrapper (less dependencies)
 
 ## Contributing
