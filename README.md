@@ -32,8 +32,10 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - [Ecto](#ecto)
 - [Nerves](#nerves)
 - [Rebar](#rebar)
+- [Tooling](#tooling)
 - [Erlang Specific](#erlang-specific)
-- [Language Integration](#language-integration)
+- [Rebar](#rebar)
+- [Languages Integration](#languages-integration)
 
 ## General Libraries
 
@@ -1146,6 +1148,6 @@ All else being equal:
 
 Contributions are welcome!
 
-- Please only request a change if you have experience using the library in a project.
+- Please only request an addition if you have experience using the library in a project
 - If you think there is a better library for one of the entries, simply create a PR and move the current choice to runner-up. If there was already a runner-up, it falls off the list.
-- If you think a category should be added, renamed, split out from, or merged with another category, simply submit a PR with the changes.
+- If you think a category should be added, renamed, split out into multiple, or merged with another category, simply submit a PR with the changes.
