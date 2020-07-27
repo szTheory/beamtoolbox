@@ -24,18 +24,15 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 ## Sections
 
 - [General Libraries](#general-libraries)
-- [API Clients](#api-clients)
-- [Tooling](#tooling)
-- [Nerves](#nerves)
 - [Plug](#plug)
 - [Phoenix](#phoenix)
 - [Ecto](#ecto)
 - [Nerves](#nerves)
-- [Rebar](#rebar)
-- [Tooling](#tooling)
+- [API Clients](#api-clients)
 - [Erlang Specific](#erlang-specific)
 - [Rebar](#rebar)
 - [Languages Integration](#languages-integration)
+- [Tooling](#tooling)
 
 ## General Libraries
 
