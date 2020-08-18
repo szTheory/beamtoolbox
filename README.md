@@ -565,7 +565,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - RSA keys [[ex]](https://hex.pm/packages/rsa_ex)
 - RSASSA-PSS crypto algorithm [[erl]](https://hex.pm/packages/crypto_rsassa_pss)
 - RSS feeds [[ex]](https://hex.pm/packages/fast_rss) [[ex]](https://hex.pm/packages/feeder_ex)
-- RSS/Atom feeds [[ex]](https://hex.pm/packages/feedme) [[erl]](<(https://hex.pm/packages/feeder)>)
+- RSS/Atom feeds [[ex]](https://hex.pm/packages/feedme) [[erl]](https://hex.pm/packages/feeder)
 - Run command on file system change [[ex]](https://hex.pm/packages/eye_drops)
 - Russian names inflection [[ex]](https://hex.pm/packages/petrovich_elixir)
 - Saga development [[ex]](https://gitlab.com/cizen/cizen)
