@@ -238,7 +238,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Event processing and monitoring [[erl]](https://hex.pm/packages/goldrush)
 - EventSource encoding [[ex]](https://hex.pm/packages/event_source_encoder)
 - EXIF metadata [[ex]](https://hex.pm/packages/exif_parser) [[ex]](https://hex.pm/packages/elixir_exif) [[ex]](https://hex.pm/packages/exexif)
-- Exponential backoff, linear retry, wait [[ex]](https://hex.pm/packages/retry)
+- Exponential backoff, linear retry, wait [[ex]](https://hex.pm/packages/retry) [[erl]](https://hex.pm/packages/backoff)
 - ExUnit assertions [[ex]](https://hex.pm/packages/assertions)
 - ExUnit assertions, identity [[ex]](https://hex.pm/packages/assert_identity)
 - ExUnit expression result output (Power assert) [[ex]](https://hex.pm/packages/power_assert)
@@ -370,7 +370,8 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - JSONAPI.org serialization [[ex]](https://hex.pm/packages/ja_serializer)
 - Jump consistent hash [[ex]](https://hex.pm/packages/jumper)
 - Kademlia [[ex]](https://hex.pm/packages/exkad)
-- Kafka client [[ex]](https://hex.pm/packages/kafka_ex) [[ex]](https://hex.pm/packages/kafka_consumer)
+- Kafka client [[ex]](https://hex.pm/packages/kafka_ex) [[ex]](https://hex.pm/packages/kafka_consumer) [[erl]](https://hex.pm/packages/brod)
+- Kafka client, Broadway integration [[ex]](https://hex.pm/packages/broadway_kafka)
 - Key/value store (ETS) [[ex]](https://hex.pm/packages/stash)
 - Key/value stores unified interface [[ex]](https://hex.pm/packages/mnemonix)
 - Kubernetes client [[ex]](https://hex.pm/packages/kazan) [[ex]](https://hex.pm/packages/kubex)
@@ -610,7 +611,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - SSL certificates, Let's Encrypt [[ex]](https://hex.pm/packages/site_encrypt)
 - SSL verification [[erl]](https://hex.pm/packages/ssl_verify_fun)
 - Standard Library [[ex]](https://hexdocs.pm/elixir/Kernel.html) [[erl]](https://erlang.org/doc/apps/stdlib/index.html)
-- State machines, distributed (Raft consensus protocol) [[ex]](https://hex.pm/packages/raft) [[erl]](https://github.com/shantiii/raft_erl)
+- Raft consensus protocol [[ex]](https://hex.pm/packages/raft) [[erl]](https://github.com/shantiii/raft_erl) [[erl]](https://hex.pm/packages/ra)
 - Static site generator [[ex]](https://hex.pm/packages/serum) [[ex]](https://hex.pm/packages/medusa)
 - Static site generator, blog engine [[ex]](https://hex.pm/packages/blogit)
 - Statistical functions [[ex]](https://hex.pm/packages/statistics)
@@ -623,6 +624,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Supermemo 2 algorithm [[ex]](https://hex.pm/packages/supermemo)
 - SVG drawing [[ex]](https://hex.pm/packages/chunky_svg)
 - syslog(3) port driver [[erl]](https://hex.pm/packages/syslog)
+- systemd integration [[erl]](https://hex.pm/packages/systemd)
 - Task behavior [[ex]](https://hex.pm/packages/gen_task)
 - Tasks progress tracking [[ex]](https://hex.pm/packages/ex_progress)
 - Tau math constant [[ex]](https://hex.pm/packages/tau)
@@ -1052,6 +1054,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Visual Studio Code (Language server support) [[ex]](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) [[erl]](https://marketplace.visualstudio.com/items?itemName=erlang-ls.erlang-ls) [[erl]](https://marketplace.visualstudio.com/items?itemName=yuce.erlang-otp) [[erl]](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
 - Visual Studio Code (Linter with Credo) [[ex]](https://marketplace.visualstudio.com/items?itemName=iampeterbanjo.elixirlinter)
 - Visual Studio Code (Test runner, jump to test) [[ex]](https://marketplace.visualstudio.com/items?itemName=samuel-pordeus.elixir-test)
+- Runtime version manager [[ex]](https://github.com/taylor/kiex) [[erl]](https://github.com/kerl/kerl)
 
 ## Erlang Specific
 
@@ -1061,6 +1064,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Embedded BEAM for ESP32/STM32 microcontrollers [[ex]](https://github.com/bettio/AtomVM)
 - Erlang Term Storage (ETS) table sharding [[erl]](https://hex.pm/packages/shards)
 - Erlang Terms memory size instrumentation [[erl]](https://github.com/okeuday/erlang_term)
+- Erlang VM metrics [[erl]](https://hex.pm/packages/vmstats)
 - Extended standard libraries [[erl]](https://hex.pm/packages/erlware_commons)
 - File system listener [[erl]](https://hex.pm/packages/fs)
 - Instrumentation [[ex]](https://hex.pm/packages/elixometer) [[erl]](https://hex.pm/packages/exometer_core)
@@ -1077,7 +1081,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Type system [[erl]](http://erlang.org/doc/apps/dialyzer/dialyzer_chapter.html)
 - Type system, gradual [[erl]](https://github.com/josefs/Gradualizer)
 - Unicode backward compatibility [[erl]](https://hex.pm/packages/unicode_util_compat)
-- Version manager [[erl]](https://github.com/kerl/kerl)
 
 ## Rebar
 
