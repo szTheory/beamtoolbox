@@ -506,8 +506,9 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Priority queue [[ex]](https://hex.pm/packages/queuex) [[erl]](https://hex.pm/packages/pqueue)
 - Process backpressure and flow control [[ex]](https://hex.pm/packages/workex)
 - Process custom parenting [[ex]](https://hex.pm/packages/parent)
-
-- Producer/consumer pipelines (data processing) [[ex]](https://hex.pm/packages/broadway) [[ex]](https://hex.pm/packages/flow) [[ex]](https://hex.pm/packages/gen_stage)
+- Parallel computations on collections [[ex]](https://hex.pm/packages/flow)
+- Producer/consumer pipelines with back-pressure [[ex]](https://hex.pm/packages/gen_stage)
+- Multi-stage data ingestion/processing pipelines [[ex]](https://hex.pm/packages/broadway)
 - Profanity filter [[ex]](https://hex.pm/packages/expletive)
 - Project configuration [[ex]](https://hex.pm/packages/figaro) [[ex]](https://hex.pm/packages/config_smuggler)
 - Project scaffolding [[ex]](https://hex.pm/packages/scaffold)
