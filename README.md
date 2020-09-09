@@ -412,7 +412,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Metrics client (MTX) [[erl]](https://hex.pm/packages/mtx)
 - Metrics logging [[ex]](https://hex.pm/packages/metrix)
 - Metrics system interfaces [[ex]](https://hex.pm/packages/metrics)
-- Metrics/monitoring/observer, web-based [[ex]](https://hex.pm/packages/wobserver)
 - Milliseconds support [[ex]](https://hex.pm/packages/milliseconds)
 - Mime type parsing [[erl]](https://hex.pm/packages/mimerl) [[erl]](https://hex.pm/packages/mimetype_parser)
 - Mix auto recompile code on file change [[ex]](https://hex.pm/packages/remix)
@@ -1030,12 +1029,14 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Code formatter [[ex]](https://hexdocs.pm/mix/master/Mix.Tasks.Format.html) [[erl]](https://hex.pm/packages/steamroller) [[erl]](https://hex.pm/packages/rebar3_format) [[erl]](https://github.com/WhatsApp/erlfmt) [[erl]](http://erlang.org/doc/man/erl_tidy.html)
 - Documentation command-line interface [[ex]](https://hex.pm/packages/eh)
 - Emacs mode for Elixir [[ex]](https://github.com/elixir-editors/emacs-elixir)
+- Erlang VM metrics GUI, web-based [[ex]](https://hex.pm/packages/wobserver)
 - Heroku buildpack for Elixir [[ex]](https://github.com/HashNuke/heroku-buildpack-elixir)
 - Hex package dependency plotting [[ex]](https://hex.pm/packages/mixgraph)
 - IntelliJ plugin [[ex]](https://github.com/KronicDeth/intellij-elixir)
 - Language server [[ex]](https://github.com/elixir-lsp/elixir-ls) [[erl]](https://github.com/erlang-ls/erlang_ls) [[erl]](https://github.com/erlang/sourcer)
 - Project templates [[ex]](https://github.com/rwdaigle/exgen)
 - Refactoring tools (Emacs) [[erl]](https://github.com/RefactoringTools/Wrangler)
+- Runtime version manager [[ex]](https://github.com/taylor/kiex) [[erl]](https://github.com/kerl/kerl)
 - Static code analysis/Linter [[ex]](https://hex.pm/packages/credo) [[erl]](https://github.com/inaka/elvis) [[erl]](https://plc.inf.elte.hu/erlang/)
 - Test auto run on file change [[ex]](https://github.com/joaothallis/elixir-auto-test)
 - TextMate/Sublime Text bundle for Elixir [[ex]](https://github.com/elixir-editors/elixir-tmbundle)
@@ -1051,7 +1052,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Visual Studio Code (Language server support) [[ex]](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) [[erl]](https://marketplace.visualstudio.com/items?itemName=erlang-ls.erlang-ls) [[erl]](https://marketplace.visualstudio.com/items?itemName=yuce.erlang-otp) [[erl]](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
 - Visual Studio Code (Linter with Credo) [[ex]](https://marketplace.visualstudio.com/items?itemName=iampeterbanjo.elixirlinter)
 - Visual Studio Code (Test runner, jump to test) [[ex]](https://marketplace.visualstudio.com/items?itemName=samuel-pordeus.elixir-test)
-- Runtime version manager [[ex]](https://github.com/taylor/kiex) [[erl]](https://github.com/kerl/kerl)
 
 ## Erlang Specific
 
