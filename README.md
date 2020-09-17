@@ -1028,6 +1028,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - BEAM process visualizer, command line [[erl]](https://hex.pm/packages/observer_cli)
 - BEAM process visualizer, GUI [[ex]](https://github.com/koudelka/visualixir)
 - Code formatter [[ex]](https://hexdocs.pm/mix/master/Mix.Tasks.Format.html) [[erl]](https://hex.pm/packages/steamroller) [[erl]](https://hex.pm/packages/rebar3_format) [[erl]](https://github.com/WhatsApp/erlfmt) [[erl]](http://erlang.org/doc/man/erl_tidy.html)
+- Compile to executable binary [[ex]](https://github.com/spawnfest/bakeware)
 - Documentation command-line interface [[ex]](https://hex.pm/packages/eh)
 - Emacs mode for Elixir [[ex]](https://github.com/elixir-editors/emacs-elixir)
 - Erlang VM metrics GUI, web-based [[ex]](https://hex.pm/packages/wobserver)
