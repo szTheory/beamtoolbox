@@ -17,7 +17,7 @@ The BEAM ecosystem is vast and hard to navigate. For any task you must evaluate 
 - Hex packages (Elixir)
 - Rebar packages (other languages like Gleam)
 
-Lucky for you, we've done the hard work of curating the best available libs for each problem class. [Disagree with our choices?](https://github.com/szTheory/beamtoolbox/edit/master/README.md)
+Lucky for you, we've done the hard work of curating the best available libs for each problem class. [Disagree with our choices?](https://github.com/szTheory/beamtoolbox/edit/master/README.md) If you need more options search the [Hex package manager website](https://hex.pm).
 
 > The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer. –author unknown
 
@@ -68,7 +68,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Background jobs queue (Redis) [[ex]](https://hex.pm/packages/verk)
 - Background jobs queue (Resque/Sidekiq) [[ex]](https://hex.pm/packages/exq)
 - Background jobs queue [[ex]](https://hex.pm/packages/toniq)
-- Barrel-db client [[ex]](https://github.com/jxub/barrel_ex.git)
+- Barrel database client [[ex]](https://github.com/jxub/barrel_ex.git)
 - Base conversion [[ex]](https://hex.pm/packages/convertat) [[ex]](https://hex.pm/packages/custom_base)
 - Base58 encoding/decoding for Elixir [[ex]](https://hex.pm/packages/basefiftyeight) [[ex]](https://hex.pm/packages/base58) [[ex]](https://hex.pm/packages/b58) [[ex]](https://hex.pm/packages/base58check) [[erl]](https://hex.pm/packages/erl_base58)
 - Base62 encoder/decoder [[ex]](https://hex.pm/packages/base62) [[ex]](https://hex.pm/packages/base62_uuid) [[erl]](https://hex.pm/packages/erlang_base62)
@@ -278,10 +278,9 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Git object storage [[ex]](https://hex.pm/packages/gitex)
 - Globals, fast/no-copy [[ex]](https://hex.pm/packages/fastglobal)
 - Globbing paths without walking the tree [[ex]](https://hex.pm/packages/ex_minimatch)
-- Googles Level data store client [[ex]](https://hex.pm/packages/level)
 - GPG encryption [[ex]](https://hex.pm/packages/exgpg)
 - Graph data structure [[ex]](https://hex.pm/packages/libgraph)
-- Graphite/Carbon client [[ex]](https://hex.pm/packages/graphitex)
+- Graphite/Carbon graph metrics DB client [[ex]](https://hex.pm/packages/graphitex) [[erl]](https://hex.pm/packages/graphiter)
 - GraphQL client [[ex]](https://hex.pm/packages/neuron)
 - GraphQL implementation [[ex]](https://hex.pm/packages/absinthe)
 - gRPC [[ex]](https://hex.pm/packages/grpc)
@@ -292,7 +291,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - HAML parser [[ex]](https://hex.pm/packages/calliope)
 - Hardware I/O interfaces for GPIO, I2C, SPI [[ex]](https://hex.pm/packages/elixir_ale)
 - Hash ring [[ex]](https://hex.pm/packages/hash_ring_ex)
-- HBase database query client [[ex]](https://hex.pm/packages/diver)
 - Health Level 7 (HL7) health data protocol [[ex]](https://hex.pm/packages/ex_hl7)
 - Helper functions [[ex]](https://hex.pm/packages/exlibris)
 - Hex code encoding/decoding [[ex]](https://hex.pm/packages/hexate)
