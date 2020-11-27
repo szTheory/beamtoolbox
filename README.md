@@ -49,6 +49,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - API gateway framework [[ex]](https://hex.pm/packages/rackla)
 - API testing [[erl]](https://github.com/for-GET/katt)
 - API versioning [[ex]](https://hex.pm/packages/versioning)
+- Apple push notifications server [[erl]](https://hex.pm/packages/apns4erl)
 - ArangoDB client [[ex]](https://hex.pm/packages/xarango)
 - Arbitrary precision decimal arithmetic [[ex]](https://hex.pm/packages/decimal)
 - Article readable content extraction [[ex]](https://hex.pm/packages/readability)
