@@ -75,6 +75,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Background jobs queue (Redis) [[ex]](https://hex.pm/packages/verk) [[ex]](https://github.com/scripbox/flume)
 - Background jobs queue (Resque/Sidekiq) [[ex]](https://hex.pm/packages/exq)
 - Background jobs queue [[ex]](https://hex.pm/packages/toniq)
+- Background tasks runner [[ex]](https://github.com/am-kantox/tarearbol)
 - Barrel database client [[ex]](https://github.com/jxub/barrel_ex.git)
 - Base conversion [[ex]](https://hex.pm/packages/convertat) [[ex]](https://hex.pm/packages/custom_base)
 - Base58 encoding/decoding for Elixir [[ex]](https://hex.pm/packages/basefiftyeight) [[ex]](https://hex.pm/packages/base58) [[ex]](https://hex.pm/packages/b58) [[ex]](https://hex.pm/packages/base58check) [[erl]](https://hex.pm/packages/erl_base58)
