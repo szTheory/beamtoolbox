@@ -58,7 +58,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - AsciiDoc documentation parser [[erl]](https://github.com/ninenines/asciideck)
 - Authentication, OAuth 2.0 (Google Cloud Service) [[ex]](https://hex.pm/packages/goth)
 - Authentication, OAuth 2.0 (multi-provider) [[ex]](https://hex.pm/packages/assent)
-- Authentication, OAuth 2.0 [[ex]](https://hex.pm/packages/oauth2) [[erl]](https://github.com/kivra/oauth2_client)
+- Authentication, OAuth 2.0, client [[ex]](https://hex.pm/packages/oauth2) [[erl]](https://github.com/kivra/oauth2_client) [[erl]](https://github.com/exograd/erl-oauth2c)
 - Authentication, OAuth 2.0, Google [[ex]](https://hex.pm/packages/elixir_auth_google/)
 - Authentication, OAuth 2.0, server [[erl]](https://github.com/kivra/oauth2)
 - Authentication, OpenID Connect client [[ex]](https://hex.pm/packages/openid_connect) [[erl]](https://hex.pm/packages/oidcc)
