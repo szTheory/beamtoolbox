@@ -799,6 +799,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - URL wildcard matching [[ex]](https://hex.pm/packages/fuzzyurl)
 - URL-friendly unique ID generator [[ex]](https://hex.pm/packages/nanoid)
 - User agent parser [[ex]](https://hex.pm/packages/ua_inspector) [[ex]](https://hex.pm/packages/ua_parser2)
+- User agent strings for browsers [[ex]](https://hex.pm/packages/pumba)
 - UTF-8 non-English digits conversion [[ex]](https://hex.pm/packages/numero)
 - Utility functions library [[erl]](https://github.com/DOBRO/uef-lib)
 - UUID (URL-safe) [[ex]](https://hex.pm/packages/shortuuid)
