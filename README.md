@@ -563,6 +563,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Pattern matchers, composable [[ex]](https://hex.pm/packages/expat)
 - Pattern matching rules [[ex]](https://hex.pm/packages/rulex)
 - Payment processing [[ex]](https://hex.pm/packages/gringotts)
+- Payment processing (Stripe) [[ex]](https://hex.pm/packages/stripity_stripe)
 - PCAP parser [[ex]](https://hex.pm/packages/expcap)
 - PDF generator [[ex]](https://hex.pm/packages/gutenex)
 - PDF generator, from HTML [[ex]](https://hex.pm/packages/pdf_generator) [[ex]](https://hex.pm/packages/puppeteer_pdf)
