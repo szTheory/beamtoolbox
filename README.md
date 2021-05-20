@@ -1139,7 +1139,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - OpenEmbedded/Yocto build system [[erl]](https://github.com/joaohf/meta-erlang)
 - OTP release compatibility detecter [[erl]](https://hex.pm/packages/geas)
 - Performance monitoring GUI [[erl]](https://github.com/erlanglab/erlangpl)
-- Ports connection with Python/Ruby [[erl]](https://hex.pm/packages/erlport)
+- Ports connection with Python/Ruby [[ex]](https://hex.pm/packages/export) [[erl]](https://hex.pm/packages/erlport)
 - Python Erlang node [[erl]](https://github.com/Pyrlang/Pyrlang)
 - Pre-processor [[erl]](https://hex.pm/packages/aleppo)
 - Process buffers [[erl]](https://hex.pm/packages/pobox)
