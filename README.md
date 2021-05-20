@@ -1082,6 +1082,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Oh-my-zsh plugin [[ex]](https://github.com/gusaiani/elixir-oh-my-zsh)
 - Project templates [[ex]](https://github.com/rwdaigle/exgen)
 - Refactoring tools (Emacs) [[erl]](https://github.com/RefactoringTools/Wrangler)
+- Refactoring linter [[ex]](https://hex.pm/packages/churn)
 - REPL terminal colors [[ex]](https://hex.pm/packages/glitz)
 - Runtime version manager [[ex]](https://github.com/taylor/kiex) [[erl]](https://github.com/kerl/kerl)
 - Security hardening guide [[ex]](https://erlef.github.io/security-wg/secure_coding_and_deployment_hardening/)
