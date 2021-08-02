@@ -170,7 +170,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Consensus protocol, HoneyBadgerBFT [[erl]](https://github.com/helium/erlang-hbbft)
 - Consensus protocol, raft [[ex]](https://hex.pm/packages/raft) [[erl]](https://github.com/shantiii/raft_erl) [[erl]](https://hex.pm/packages/ra)
 - Constraint solver (JSR 331) [[ex]](https://hex.pm/packages/aruspex)
-- Continuous Integration/Deployment (CI/CD) [[ex]](https://hex.pm/packages/ci)
 - Coordinate conversion with OSGeo PROJ.4 [[ex]](https://hex.pm/packages/proj)
 - CouchDB client [[erl]](https://hex.pm/packages/couchdb)
 - Country information (ISO 3166) [[ex]](https://hex.pm/packages/countries) [[ex]](https://hex.pm/packages/countriex)
