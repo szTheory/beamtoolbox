@@ -457,6 +457,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Logfmt encoding/decoding [[ex]](https://hex.pm/packages/logfmt)
 - Logger for Graylog Extended Log Format (GELF) [[ex]](https://hex.pm/packages/gelf_logger) [[ex]](https://hex.pm/packages/gelfx)
 - Logger integration with RabbitMQ [[ex]](https://hex.pm/packages/rogger)
+- Logger file backend [[ex]](https://hex.pm/packages/logger_file_backend)
 - Logging (JSON) [[ex]](https://hex.pm/packages/json_logger)
 - Logging [[ex]](https://hex.pm/packages/bunyan) [[erl]](https://hex.pm/packages/lager)
 - Logging framework adapter [[erl]](https://hex.pm/packages/hut)
