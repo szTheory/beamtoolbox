@@ -693,7 +693,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - SOCKS4/SOCKS5 proxy server [[erl]](https://hex.pm/packages/tunnerl)
 - Sorted Sets [[ex]](https://hex.pm/packages/sorted_set)
 - SPARQL query language client [[ex]](https://hex.pm/packages/sparql) [[ex]](https://hex.pm/packages/sparql_client)
-- Spell checker [[erl]](https://hex.pm/packages/sheldon)
+- Spell checker (English) [[erl]](https://hex.pm/packages/sheldon)
 - Sphinx full text search client [[ex]](https://hex.pm/packages/giza_sphinxsearch) [[erl]](https://hex.pm/packages/sphinxsearch_giza)
 - Spinlocks [[erl]](https://hex.pm/packages/sleeplocks)
 - SQL functions [[ex]](https://hex.pm/packages/defql)
