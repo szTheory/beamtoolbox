@@ -996,6 +996,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Composable query builder [[ex]](https://hex.pm/packages/inquisitor) [[ex]](https://hex.pm/packages/plasm)
 - Database seeds [[ex]](https://hex.pm/packages/exseed)
 - Database URL parser [[ex]](https://hex.pm/packages/database_url)
+- Database migrations linter [[ex]](https://hex.pm/packages/excellent_migrations)
 - Default scopes [[ex]](https://hex.pm/packages/ecto_rescope)
 - Encrypted password (Comeonin) [[ex]](https://hex.pm/packages/comeonin_ecto_password)
 - Encryption [[ex]](https://hex.pm/packages/cloak_ecto)
