@@ -657,7 +657,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Base62-encoded UUIDs [[ex]](https://hex.pm/packages/base62_uuid_field)
 - Cassandra DB adapter [[ex]](https://hex.pm/packages/ecto_cassandra)
 - Composable query builder [[ex]](https://hex.pm/packages/plasm)
-- Database migrations linter [[ex]](https://hex.pm/packages/excellent_migrations)
+- Database migrations linter [[ex]](https://hex.pm/packages/excellent_migrations), [[ex]](https://github.com/fresha/strong_migrations)
 - Database multitenancy (PostgreSQL) [[ex]](https://hex.pm/packages/triplex)
 - Encrypted password (Comeonin) [[ex]](https://hex.pm/packages/comeonin_ecto_password)
 - Encryption [[ex]](https://hex.pm/packages/cloak_ecto)
