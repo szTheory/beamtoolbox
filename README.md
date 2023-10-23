@@ -746,6 +746,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Visual Studio Code (Hex package info) [[ex]](https://marketplace.visualstudio.com/items?itemName=szTheory.hex-lens) [[erl]](https://marketplace.visualstudio.com/items?itemName=szTheory.hex-lens)
 - Visual Studio Code (Hex package version intellisense) [[ex]](https://marketplace.visualstudio.com/items?itemName=benvp.vscode-hex-pm-intellisense)
 - Visual Studio Code (Hex.pm version intellisense) [[ex]](https://marketplace.visualstudio.com/items?itemName=benvp.vscode-hex-pm-intellisense)
+- Visual Studio Code (Phoenix HEEX/PETAL snippets) [[ex]](https://marketplace.visualstudio.com/items?itemName=PetalFramework.vscode-petal-components-snippets&ssr=false#overview)
 - Visual Studio Code (Language server support) [[ex]](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls) [[erl]](https://marketplace.visualstudio.com/items?itemName=erlang-ls.erlang-ls) [[erl]](https://marketplace.visualstudio.com/items?itemName=yuce.erlang-otp) [[erl]](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
 - Visual Studio Code (Linter with Credo) [[ex]](https://marketplace.visualstudio.com/items?itemName=iampeterbanjo.elixirlinter)
 - Visual Studio Code (Test runner, jump to test) [[ex]](https://marketplace.visualstudio.com/items?itemName=samuel-pordeus.elixir-test)
