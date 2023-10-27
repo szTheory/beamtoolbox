@@ -58,7 +58,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Authentication, OpenID Connect client [[ex]](https://hex.pm/packages/openid_connect) [[erl]](https://hex.pm/packages/oidcc)
 - Authentication, passwordless and 2FA/multi-factor [[ex]](https://hex.pm/packages/passwordless_auth)
 - Authentication, Security Assertion Markup Language (SAML) [[erl]](https://hex.pm/packages/esaml)
-- Authorization, rule based [[ex]](https://hex.pm/packages/authorize)
+- Authorization, rule based [[ex]](https://hex.pm/packages/authorize) [[ex]](https://hex.pm/packages/let_me)
 - Authorization/permissions [[ex]](https://hex.pm/packages/canada)
 - Avro message encode/decode [[ex]](https://hex.pm/packages/avrora)
 - AWS Signature V4 [[ex]](https://hex.pm/packages/sigaws) [[erl]](https://hex.pm/packages/erliam/)
