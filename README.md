@@ -138,7 +138,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - CSV encode/decode [[ex]](https://hex.pm/packages/csv) [[ex]](https://hex.pm/packages/nimble_csv)
 - Cuckoo filters [[erl]](https://hex.pm/packages/cuckoo_filter)
 - Data structure to HTML [[ex]](https://hex.pm/packages/sneeze)
-- Data validation [[ex]](https://hex.pm/packages/norm) [[ex]](https://hex.pm/packages/vex)
+- Data validation [[ex]](https://hex.pm/packages/vex) [[ex]](https://hex.pm/packages/norm) [[ex]](https://hex.pm/packages/drops/0.1.0)
 - Database enumerable type [[ex]](https://hex.pm/packages/exnumerator)
 - Date/time advanced formatting [[ex]](https://hex.pm/packages/calendar)
 - Date/time helpers [[ex]](https://hex.pm/packages/timex)
