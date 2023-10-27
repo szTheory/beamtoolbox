@@ -583,7 +583,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Authentication, OAuth 2.0/1.0 (multi-provider), works with Pow [[ex]](https://hex.pm/packages/pow_assent)
 - Authentication, SAML 2.0 SSO (Single-Sign-On) [[ex]](https://hex.pm/packages/samly)
 - Authentication, token-based (JWT/other), Plug/non-Plug [[ex]](https://hex.pm/packages/guardian)
-- Authorization [[ex]](https://hex.pm/packages/canada) [[ex]](https://hex.pm/packages/dictator)  
+- Authorization [[ex]](https://hex.pm/packages/canada) [[ex]](https://hex.pm/packages/dictator) [[ex]](https://hex.pm/packages/permit)
 - AWS Signature V4 [[ex]](https://hex.pm/packages/sigaws)
 - Canonical hosts [[ex]](https://hex.pm/packages/plug_canonical_host)
 - CORS headers [[ex]](https://hex.pm/packages/cors_plug) [[ex]](https://hex.pm/packages/corsica)
