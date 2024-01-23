@@ -846,7 +846,6 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 
 ## Languages Integration
 
-- BEAM implementation, Go [[erl]](https://github.com/halturin/ergo)
 - BEAM implementation, Rust [[erl]](https://github.com/lumen/lumen)
 - C# client for Phoenix Channels [[ex]](https://github.com/Mazyod/PhoenixSharp)
 - Clojure integration [[erl]](https://github.com/clojang/clojang)
@@ -855,6 +854,7 @@ Lucky for you, we've done the hard work of curating the best available libs for 
 - Crystal client for Phoenix Channels [[ex]](https://github.com/dtcristo/phoenix.cr)
 - Elixir to Javascript transpiler [[ex]](https://hex.pm/packages/elixir_script)
 - Elm to Elixir compiler [[ex]](https://github.com/wende/elchemy)
+- Erlang cluster integration, Go [[erl]](https://github.com/halturin/ergo)
 - Erlang struct and error message convert to Elixir [[ex]](https://hex.pm/packages/erlex)
 - Erlang Term Storage (ETS) encode/decode, Python/JavaScript [[erl]](https://github.com/discord/erlpack)
 - Erlang to Elixir transpiler [[erl]](https://github.com/marianoguerra/efe)
